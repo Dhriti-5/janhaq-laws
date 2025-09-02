@@ -1,0 +1,1591 @@
+[
+  {
+    "title": "The Punjab Laws Act, 1872",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19137?view_type=search&col=123456789/1362",
+    "description": "Consolidates and validates laws applicable in the Punjab region.",
+    "category": "Rule",
+    "tags": ["law", "India", "rule"]
+  },
+  {
+    "title": "The Bharatiya Sakshya Adhiniyam, 2023",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/20063?view_type=search&col=123456789/1362",
+    "description": "Modern legislation concerning Indian evidence law.",
+    "category": "Rule",
+    "tags": ["law", "India", "rule"]
+  },
+  {
+    "title": "The Bihar Land Reforms Laws (Regulating Mines and Minerals) Validation Act, 1969.",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19239?view_type=search&col=123456789/1362",
+    "description": "Validates land reform laws in Bihar concerning mines and minerals.",
+    "category": "Rule",
+    "tags": ["land", "mineral regulation", "rule"]
+  },
+  {
+    "title": "The Immigration (Carriers Liability) Act, 2000",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1934?view_type=search&col=123456789/1362",
+    "description": "Imposes liability on carriers for transporting illegal immigrants.",
+    "category": "Rule",
+    "tags": ["immigration", "liability", "rule"]
+  },
+  {
+    "title": "The Bombay Rent-free Estates Act, 1851",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19027?view_type=search&col=123456789/1362",
+    "description": "Regulates estates exempted from rent in the Bombay region.",
+    "category": "Rule",
+    "tags": ["estate law", "rent", "rule"]
+  },
+  {
+    "title": "The Explosives Act, 1884",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2301?view_type=search&col=123456789/1362",
+    "description": "Regulates manufacture, possession, and use of explosives.",
+    "category": "Rule",
+    "tags": ["safety", "explosives", "rule"]
+  },
+  {
+    "title": "The Public Employment (Requirement as to Residence) Act, 1957",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1429?view_type=search&col=123456789/1362",
+    "description": "Specifies residence requirements for public employment eligibility.",
+    "category": "Rule",
+    "tags": ["employment", "residency", "rule"]
+  },
+  {
+    "title": "The Suits Valuation Act, 1887",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2311?view_type=search&col=123456789/1362",
+    "description": "Determines the valuation of suits for court jurisdiction and fees.",
+    "category": "Rule",
+    "tags": ["civil law", "court fees", "rule"]
+  },
+  {
+    "title": "The Inflammable Substances Act, 1952",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2165?view_type=search&col=123456789/1362",
+    "description": "Regulates the storage, transport, and handling of inflammable substances.",
+    "category": "Rule",
+    "tags": ["safety", "hazardous materials", "rule"]
+  },
+  {
+    "title": "The Environment (Protection) Act, 1986",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1876?view_type=search&col=123456789/1362",
+    "description": "Provides framework for environmental protection and pollution control.",
+    "category": "Rule",
+    "tags": ["environment", "pollution", "rule"]
+  },
+  {
+    "title": "The Central Industrial Security Force (Amendment and Validation) Act, 1999.",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19240?view_type=search&col=123456789/1362",
+    "description": "Amends and validates provisions regarding the CISF for industrial security.",
+    "category": "Rule",
+    "tags": ["security", "industry", "rule"]
+  },
+  {
+    "title": "The Improvements in Towns Act, 1850",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19031?view_type=search&col=123456789/1362",
+    "description": "Governs urban planning and municipal improvements in towns.",
+    "category": "Rule",
+    "tags": ["urban planning", "municipal law", "rule"]
+  },
+  {
+    "title": "The Births, Deaths and Marriages Registration Act, 1886",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2309?view_type=search&col=123456789/1362",
+    "description": "Mandates registration of births, deaths, and marriages in India.",
+    "category": "Rule",
+    "tags": ["civil registration", "population records", "rule"]
+  },
+  {
+    "title": "The General Clauses Act, 1897",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2328?view_type=search&col=123456789/1362",
+    "description": "Provides general definitions and interpretation clauses for Indian legislation.",
+    "category": "Rule",
+    "tags": ["legislation", "interpretation", "rule"]
+  },
+  {
+    "title": "The Betwa River Board Act, 1976",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1479?view_type=search&col=123456789/1362",
+    "description": "Establishes the Betwa River Board for water management and development.",
+    "category": "Rule",
+    "tags": ["water management", "river board", "rule"]
+  },
+  {
+    "title": "The Dowry Prohibition Act, 1961",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1679?view_type=search&col=123456789/1362",
+    "description": "Prohibits giving or taking of dowry in India and prescribes penalties.",
+    "category": "Rule",
+    "tags": ["social law", "women protection", "rule"]
+  },
+  {
+    "title": "The Oudh Laws Act, 1876",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19217?view_type=search&col=123456789/1362",
+    "description": "Validates laws and regulations applicable to the Oudh region.",
+    "category": "Rule",
+    "tags": ["regional law", "history", "rule"]
+  },
+  {
+    "title": "The Women’s and Children’s Institutions (Licensing) Act, 1956.",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19281?view_type=search&col=123456789/1362",
+    "description": "Provides for licensing and regulation of institutions for women and children.",
+    "category": "Rule",
+    "tags": ["social welfare", "licensing", "rule"]
+  },
+  {
+    "title": "The Prisons Act, 1894",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2325?view_type=search&col=123456789/1362",
+    "description": "Regulates the administration and management of prisons in India.",
+    "category": "Rule",
+    "tags": ["penal system", "prison management", "rule"]
+  },
+  {
+    "title": "The All-India Institute of Medical Science Act, 1956",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1699?view_type=search&col=123456789/1362",
+    "description": "Establishes AIIMS as an institute of national importance for medical education and research.",
+    "category": "Rule",
+    "tags": ["education", "healthcare", "rule"]
+  },
+  {
+    "title": "The Tobacco Board Act, 1975",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1739?view_type=search&col=123456789/1362",
+    "description": "Establishes the Tobacco Board to regulate tobacco cultivation and marketing in India.",
+    "category": "Rule",
+    "tags": ["law", "India", "rule"]
+  },
+  {
+    "title": "The National Judicial Appointments Commission Act, 2014",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2142?view_type=search&col=123456789/1362",
+    "description": "Provides framework for appointment of judges to higher judiciary in India.",
+    "category": "Rule",
+    "tags": ["law", "judiciary", "rule"]
+  },
+  {
+    "title": "The Anusandhan National Research Foundation Act, 2023",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19767?view_type=search&col=123456789/1362",
+    "description": "Establishes the National Research Foundation to promote research and innovation.",
+    "category": "Rule",
+    "tags": ["research", "science", "rule"]
+  },
+  {
+    "title": "The Manipur (Hill Areas) District Councils Act, 1971",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1600?view_type=search&col=123456789/1362",
+    "description": "Provides governance framework for Hill Area District Councils in Manipur.",
+    "category": "Rule",
+    "tags": ["regional law", "Manipur", "rule"]
+  },
+  {
+    "title": "The Indian Tramways Act, 1886",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2310?view_type=search&col=123456789/1362",
+    "description": "Regulates construction, maintenance, and operation of tramways in India.",
+    "category": "Rule",
+    "tags": ["transport", "railways", "rule"]
+  },
+  {
+    "title": "The Oilfields (Regulation and Development) Act, 1948",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1397?view_type=search&col=123456789/1362",
+    "description": "Regulates exploration and development of oilfields in India.",
+    "category": "Rule",
+    "tags": ["energy", "oil industry", "rule"]
+  },
+  {
+    "title": "The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2104?view_type=search&col=123456789/1362",
+    "description": "Protects women from sexual harassment at the workplace and provides redressal mechanisms.",
+    "category": "Rule",
+    "tags": ["workplace law", "women safety", "rule"]
+  },
+  {
+    "title": "The Indian Reserve Forces Act, 1888",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2314?view_type=search&col=123456789/1362",
+    "description": "Regulates organization, training, and service of Indian Reserve Forces.",
+    "category": "Rule",
+    "tags": ["military", "reserve forces", "rule"]
+  },
+  {
+    "title": "The Punjab Land-Revenue Act, 1887",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19229?view_type=search&col=123456789/1362",
+    "description": "Governs land revenue administration and settlement in Punjab.",
+    "category": "Rule",
+    "tags": ["land law", "Punjab", "rule"]
+  },
+  {
+    "title": "The Advocates Act, 1961",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1631?view_type=search&col=123456789/1362",
+    "description": "Regulates legal profession and practice of advocates in India.",
+    "category": "Rule",
+    "tags": ["law profession", "advocates", "rule"]
+  },
+    {
+    "title": "The Agriculturists' Loans Act, 1884",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19140?view_type=search&col=123456789/1362",
+    "description": "Provides rules for granting loans to agriculturists to support farming activities.",
+    "category": "Rule",
+    "tags": ["law", "India", "rule"]
+  },
+  {
+    "title": "The Punjab District Boards Act, 1883",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2393?view_type=search&col=123456789/1362",
+    "description": "Establishes and regulates district boards for local governance in Punjab.",
+    "category": "Rule",
+    "tags": ["law", "Punjab", "rule"]
+  },
+  {
+    "title": "The Comptroller Auditor-General s (Duties, Powers and Conditions of Service) Act, 1971",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1569?view_type=search&col=123456789/1362",
+    "description": "Defines the powers, duties, and service conditions of the Comptroller and Auditor-General of India.",
+    "category": "Rule",
+    "tags": ["audit", "government", "rule"]
+  },
+  {
+    "title": "The Indecent Representation of Women (Prohibition) Act, 1986",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1768?view_type=search&col=123456789/1362",
+    "description": "Prohibits indecent representation of women through advertisements, publications, or exhibitions.",
+    "category": "Rule",
+    "tags": ["women", "protection", "rule"]
+  },
+  {
+    "title": "The Central Provinces Land-Revenue Act, 1881",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19215?view_type=search&col=123456789/1362",
+    "description": "Governs land revenue administration in the Central Provinces region.",
+    "category": "Rule",
+    "tags": ["land law", "revenue", "rule"]
+  },
+  {
+    "title": "The Inland Waterways Authority of India Act, 1985",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1856?view_type=search&col=123456789/1362",
+    "description": "Establishes the Inland Waterways Authority to develop and maintain inland waterways for shipping and transport.",
+    "category": "Rule",
+    "tags": ["transport", "infrastructure", "rule"]
+  },
+  {
+    "title": "The Spices Board Act, 1986",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1872?view_type=search&col=123456789/1362",
+    "description": "Constitutes the Spices Board to promote production, marketing, and export of spices from India.",
+    "category": "Rule",
+    "tags": ["agriculture", "trade", "rule"]
+  },
+  {
+    "title": "The Dock Workers (Safety, Health and Welfare) Act, 1986",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1867?view_type=search&col=123456789/1362",
+    "description": "Ensures safety, health, and welfare measures for dock workers across India.",
+    "category": "Rule",
+    "tags": ["labor law", "safety", "rule"]
+  },
+  {
+    "title": "The Salary and Allowances of Leaders of Opposition in Parliament Act, 1977",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1622?view_type=search&col=123456789/1362",
+    "description": "Specifies salary, allowances, and other entitlements of the Leaders of Opposition in Parliament.",
+    "category": "Rule",
+    "tags": ["parliament", "government", "rule"]
+  },
+  {
+    "title": "The Asiatic Society Act, 1984",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1789?view_type=search&col=123456789/1362",
+    "description": "Governs the establishment and functioning of the Asiatic Society of India for scholarly research.",
+    "category": "Rule",
+    "tags": ["education", "research", "rule"]
+  },
+  {
+    "title": "The Manipur (Courts) Act, 1955",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1512?view_type=search&col=123456789/1362",
+    "description": "Provides the framework for the establishment and functioning of courts in Manipur.",
+    "category": "Rule",
+    "tags": ["judiciary", "Manipur", "rule"]
+  },
+  {
+    "title": "The Voluntary Surrender of Salaries (Exemption from Taxation) Act, 1961",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1660?view_type=search&col=123456789/1362",
+    "description": "Allows government employees to voluntarily surrender part of their salary without it being taxed.",
+    "category": "Rule",
+    "tags": ["law", "India", "rule"]
+  },
+  {
+    "title": "The Manipur Land Revenue and Land Reforms Act, 1960",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1531?view_type=search&col=123456789/1362",
+    "description": "Regulates land revenue, ownership, and reforms in the state of Manipur.",
+    "category": "Rule",
+    "tags": ["land law", "Manipur", "rule"]
+  },
+  {
+    "title": "The Metro Railways (Operation and Maintenance) Act, 2002",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2008?view_type=search&col=123456789/1362",
+    "description": "Provides the framework for operation, maintenance, and safety of metro rail systems in India.",
+    "category": "Rule",
+    "tags": ["transport", "metro", "rule"]
+  },
+  {
+    "title": "The Family Courts Act, 1984",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1844?view_type=search&col=123456789/1362",
+    "description": "Establishes family courts to handle matrimonial and family disputes efficiently.",
+    "category": "Rule",
+    "tags": ["family law", "courts", "rule"]
+  },
+  {
+    "title": "The Muslim Women (Protection of Rights on Divorce) Act, 1986",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1873?view_type=search&col=123456789/1362",
+    "description": "Protects the rights of Muslim women regarding maintenance and property after divorce.",
+    "category": "Rule",
+    "tags": ["women", "divorce", "rule"]
+  },
+  {
+    "title": "The African Development Fund Act, 1982",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1828?view_type=search&col=123456789/1362",
+    "description": "Regulates India's contributions and participation in the African Development Fund.",
+    "category": "Rule",
+    "tags": ["finance", "international", "rule"]
+  },
+  {
+    "title": "The Sugar Development Fund Act, 1982",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1780?view_type=search&col=123456789/1362",
+    "description": "Provides financial support for the development of the sugar industry in India.",
+    "category": "Rule",
+    "tags": ["agriculture", "industry", "rule"]
+  },
+  {
+    "title": "The African Development Bank Act, 1983",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1839?view_type=search&col=123456789/1362",
+    "description": "Governs India's membership, contributions, and involvement in the African Development Bank.",
+    "category": "Rule",
+    "tags": ["finance", "international", "rule"]
+  },
+  {
+    "title": "The International Development Association (Status, Immunities and Privileges) Act, 1960",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1511?view_type=search&col=123456789/1362",
+    "description": "Defines the status, immunities, and privileges of the International Development Association in India.",
+    "category": "Rule",
+    "tags": ["finance", "international", "rule"]
+  },
+  {
+    "title": "The Manipur (Sales of Motor Spirit and Lubricants) Taxation Act, 1962",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1426?view_type=search&col=123456789/1362",
+    "description": "Regulates taxation on sales of motor fuel and lubricants in Manipur.",
+    "category": "Rule",
+    "tags": ["tax", "Manipur", "rule"]
+  },
+  {
+    "title": "The Orphanages and other Charitable Homes (Supervision and Control) Act, 1960",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/13052?view_type=search&col=123456789/1362",
+    "description": "Provides supervision and regulation of orphanages and charitable homes in India.",
+    "category": "Rule",
+    "tags": ["charity", "social welfare", "rule"]
+  },
+  {
+    "title": "The Sales Promotion Employees (Conditions of Service) Act, 1976",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1473?view_type=search&col=123456789/1362",
+    "description": "Specifies service conditions and rights of sales promotion employees in India.",
+    "category": "Rule",
+    "tags": ["labor", "employment", "rule"]
+  },
+  {
+    "title": "The Agricultural and Processed Food Products Export Development Authority Act, 1985",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1865?view_type=search&col=123456789/1362",
+    "description": "Establishes an authority to promote export and development of agricultural and processed food products.",
+    "category": "Rule",
+    "tags": ["agriculture", "export", "rule"]
+  },
+  {
+    "title": "The State of Arunachal Pradesh Act, 1986",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1878?view_type=search&col=123456789/1362",
+    "description": "Provides for the formation and governance of the state of Arunachal Pradesh.",
+    "category": "Rule",
+    "tags": ["state law", "Arunachal Pradesh", "rule"]
+  },
+  {
+    "title": "The Inland Vessels Act, 2021",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/17048?view_type=search&col=123456789/1362",
+    "description": "Regulates the registration, safety, and navigation of inland vessels in India.",
+    "category": "Rule",
+    "tags": ["transport", "inland waterways", "rule"]
+  },
+  {
+    "title": "The Tripura Land Revenue and Land Reforms Act, 1960",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1564?view_type=search&col=123456789/1362",
+    "description": "Governs land revenue collection and land reforms in the state of Tripura.",
+    "category": "Rule",
+    "tags": ["land law", "Tripura", "rule"]
+  },
+  {
+    "title": "The Real Estate (Regulation and Development) Act, 2016",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2158?view_type=search&col=123456789/1362",
+    "description": "Regulates the real estate sector, ensuring transparency and protecting homebuyers' interests.",
+    "category": "Rule",
+    "tags": ["real estate", "RERA", "rule"]
+  },
+  {
+    "title": "The Prevention of Cruelty to Animals Act, 1960",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1547?view_type=search&col=123456789/1362",
+    "description": "Prevents cruelty to animals and promotes their welfare across India.",
+    "category": "Rule",
+    "tags": ["animal welfare", "law", "rule"]
+  },
+  {
+    "title": "The Calcutta Metro Railway (Operation and Maintenance) Temporary Provisions Act, 1985",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1866?view_type=search&col=123456789/1362",
+    "description": "Provides temporary provisions for the operation and maintenance of the Calcutta Metro Railway.",
+    "category": "Rule",
+    "tags": ["transport", "metro", "rule"]
+  },
+  {
+    "title": "The National Capital Region Planning Board Act, 1985",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1847?view_type=search&col=123456789/1362",
+    "description": "Establishes the planning board for coordinated development of the National Capital Region.",
+    "category": "Rule",
+    "tags": ["urban planning", "NCR", "rule"]
+  },
+  {
+    "title": "The Chutia Nagpur Encumbered Estates Act, 1876",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19142?view_type=search&col=123456789/1362",
+    "description": "Regulates the management and transfer of encumbered estates in Chutia Nagpur.",
+    "category": "Rule",
+    "tags": ["land law", "Jharkhand", "rule"]
+  },
+    {
+    "title": "The Oudh Taluqdar's Relief Act, 1870",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19139?view_type=search&col=123456789/1362",
+    "description": "Provides financial relief to taluqdars (landowners) in the Oudh region.",
+    "category": "Rule",
+    "tags": ["law", "India", "rule"]
+  },
+  {
+    "title": "The Prize Chits and Money Circulation Schemes (Banning) Act, 1978",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1628?view_type=search&col=123456789/1362",
+    "description": "Prohibits prize chits and schemes that circulate money illegally.",
+    "category": "Rule",
+    "tags": ["finance", "fraud", "rule"]
+  },
+  {
+    "title": "The Cine-workers Welfare Fund Act, 1981",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1809?view_type=search&col=123456789/1362",
+    "description": "Establishes a welfare fund to support workers in the Indian film industry.",
+    "category": "Rule",
+    "tags": ["labor", "film industry", "rule"]
+  },
+  {
+    "title": "The Sports Broadcasting Signals (Mandatory Sharing with PrasarBharati) Act, 2007",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2076?view_type=search&col=123456789/1362",
+    "description": "Requires sharing of sports broadcasting signals with the public broadcaster PrasarBharati.",
+    "category": "Rule",
+    "tags": ["media", "sports", "rule"]
+  },
+  {
+    "title": "The Live-stock Importation Act, 1898",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2330?view_type=search&col=123456789/1362",
+    "description": "Regulates the import of livestock into India to control disease and trade.",
+    "category": "Rule",
+    "tags": ["agriculture", "trade", "rule"]
+  },
+  {
+    "title": "The Territorial Waters, Continental Shelf, Exclusive Economic Zone and Other Maritime Zones Act, 1976",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1484?view_type=search&col=123456789/1362",
+    "description": "Defines India's territorial waters, continental shelf, and maritime zones.",
+    "category": "Rule",
+    "tags": ["maritime law", "territory", "rule"]
+  },
+  {
+    "title": "The Intelligence Organisations (Restriction of Rights) Act, 1985",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1811?view_type=search&col=123456789/1362",
+    "description": "Regulates certain rights of individuals regarding intelligence organizations.",
+    "category": "Rule",
+    "tags": ["security", "intelligence", "rule"]
+  },
+  {
+    "title": "The Bombay Civil Courts Act, 1869",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2291?view_type=search&col=123456789/1362",
+    "description": "Establishes civil courts and procedures in Bombay (now Mumbai).",
+    "category": "Rule",
+    "tags": ["courts", "civil law", "rule"]
+  },
+  {
+    "title": "The Dadra and Nagar Haveli Act, 1961",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1640?view_type=search&col=123456789/1362",
+    "description": "Provides for the administration and governance of Dadra and Nagar Haveli.",
+    "category": "Rule",
+    "tags": ["state law", "Dadra and Nagar Haveli", "rule"]
+  },
+  {
+    "title": "The State of Mizoram Act, 1986",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1869?view_type=search&col=123456789/1362",
+    "description": "Provides for the formation and governance of the state of Mizoram.",
+    "category": "Rule",
+    "tags": ["state law", "Mizoram", "rule"]
+  },
+  {
+    "title": "The Press Council Act, 1978",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1744?view_type=search&col=123456789/1362",
+    "description": "Establishes the Press Council to regulate and maintain standards in the press.",
+    "category": "Rule",
+    "tags": ["media", "press", "rule"]
+  },
+  {
+    "title": "The Motor Transport Workers Act, 1961",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1662?view_type=search&col=123456789/1362",
+    "description": "Regulates conditions of service for motor transport workers in India.",
+    "category": "Rule",
+    "tags": ["labor", "transport", "rule"]
+  },
+  {
+    "title": "The Prohibition of Employment as Manual Scavengers and their Rehabilitation Act, 2013",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2119?view_type=search&col=123456789/1362",
+    "description": "Bans manual scavenging and provides rehabilitation and alternative employment for affected workers.",
+    "category": "Rule",
+    "tags": ["labor", "social justice", "rule"]
+  },
+  {
+    "title": "The Mahatma Gandhi National Rural Employment Guarantee Act, 2005",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2014?view_type=search&col=123456789/1362",
+    "description": "Guarantees at least 100 days of wage employment per year to rural households.",
+    "category": "Rule",
+    "tags": ["employment", "rural development", "rule"]
+  },
+  {
+    "title": "The Energy Conservation Act, 2001",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2003?view_type=search&col=123456789/1362",
+    "description": "Promotes energy efficiency and conservation across industries and households.",
+    "category": "Rule",
+    "tags": ["energy", "environment", "rule"]
+  },
+  {
+    "title": "The Child and Adolescent Labour (Prohibition and Regulation) Act, 1986",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1848?view_type=search&col=123456789/1362",
+    "description": "Prohibits and regulates employment of children and adolescents in India.",
+    "category": "Rule",
+    "tags": ["child labor", "labor law", "rule"]
+  },
+  {
+    "title": "The Central Excise Act, 1944",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19238?view_type=search&col=123456789/1362",
+    "description": "Governs central excise duties on goods manufactured or produced in India.",
+    "category": "Rule",
+    "tags": ["tax", "finance", "rule"]
+  },
+  {
+    "title": "The Broach and Kaira Incumbered Estates Act, 1877",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19231?view_type=search&col=123456789/1362",
+    "description": "Regulates the management and transfer of encumbered estates in Broach and Kaira.",
+    "category": "Rule",
+    "tags": ["land law", "Gujarat", "rule"]
+  },
+    {
+    "title": "The Rampur Raza Library  Act, 1975",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1735?view_type=search&col=123456789/1362",
+    "description": "Establishes and governs the Rampur Raza Library and its administration.",
+    "category": "Rule",
+    "tags": ["library", "culture", "rule"]
+  },
+  {
+    "title": "The Cine-workers and Cinema Theatre Workers (Regulation of Employment) Act, 1981",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1516?view_type=search&col=123456789/1362",
+    "description": "Regulates employment conditions of cinema and theatre workers in India.",
+    "category": "Rule",
+    "tags": ["labor", "film industry", "rule"]
+  },
+  {
+    "title": "The East Punjab Urban Rent Restriction Act (Extension to Chandigarh) Act, 1974",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1610?view_type=search&col=123456789/1362",
+    "description": "Extends rent control laws to Chandigarh, regulating urban tenancy agreements.",
+    "category": "Rule",
+    "tags": ["housing", "rent control", "rule"]
+  },
+  {
+    "title": "The Khuda Bakhsh Oriental Public Library Act, 1969",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1731?view_type=search&col=123456789/1362",
+    "description": "Establishes and governs the Khuda Bakhsh Oriental Public Library in Patna.",
+    "category": "Rule",
+    "tags": ["library", "culture", "rule"]
+  },
+  {
+    "title": "The Oil and Natural Gas Commission (Transfer of Undertaking and Repeal) Act, 1993",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1902?view_type=search&col=123456789/1362",
+    "description": "Transfers assets and functions of ONGC and repeals earlier enactments.",
+    "category": "Rule",
+    "tags": ["energy", "corporate law", "rule"]
+  },
+  {
+    "title": "The Employment Exchanges (Compulsory Notification of Vacancies) Act, 1959",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1418?view_type=search&col=123456789/1362",
+    "description": "Requires employers to notify employment vacancies to government employment exchanges.",
+    "category": "Rule",
+    "tags": ["employment", "labor law", "rule"]
+  },
+  {
+    "title": "The Chief Election Commissioner And Other Election Commissioners (Appointment, Conditions of Service And Term of Office) Act, 2023",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19721?view_type=search&col=123456789/1362",
+    "description": "Defines appointment, tenure, and service conditions of the Chief Election Commissioner and other commissioners.",
+    "category": "Rule",
+    "tags": ["election", "governance", "rule"]
+  },
+  {
+    "title": "The Charitable Endowments Act, 1890",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2317?view_type=search&col=123456789/1362",
+    "description": "Regulates administration and management of charitable endowments in India.",
+    "category": "Rule",
+    "tags": ["charity", "law", "rule"]
+  },
+  {
+    "title": "The Sick Industrial Companies (Special Provisions) Repeal Act, 2003",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1414?view_type=search&col=123456789/1362",
+    "description": "Repeals provisions related to the restructuring of sick industrial companies.",
+    "category": "Rule",
+    "tags": ["industry", "finance", "rule"]
+  },
+  {
+    "title": "The Maternity Benefit Act, 1961",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1681?view_type=search&col=123456789/1362",
+    "description": "Provides maternity benefits and leaves to women employees in India.",
+    "category": "Rule",
+    "tags": ["labor", "women", "rule"]
+  },
+  {
+    "title": "The Emigration Act, 1983",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1779?view_type=search&col=123456789/1362",
+    "description": "Regulates emigration of Indian citizens for work abroad and protects their rights.",
+    "category": "Rule",
+    "tags": ["emigration", "labor", "rule"]
+  },
+  {
+    "title": "The Warehousing (Development and Regulation) Act, 2007",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2020?view_type=search&col=123456789/1362",
+    "description": "Regulates development and licensing of warehouses for agricultural and other goods.",
+    "category": "Rule",
+    "tags": ["trade", "agriculture", "rule"]
+  },
+  {
+    "title": "The Tribunals Reforms Act, 2021",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/16901?view_type=search&col=123456789/1362",
+    "description": "Introduces reforms to streamline and rationalize tribunals across India.",
+    "category": "Rule",
+    "tags": ["law", "governance", "rule"]
+  },
+  {
+    "title": "The Indian Forest Act, 1927",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2388?view_type=search&col=123456789/1362",
+    "description": "Provides for forest conservation, regulation, and protection of forests in India.",
+    "category": "Rule",
+    "tags": ["environment", "forestry", "rule"]
+  },
+  {
+    "title": "The Air (Prevention and Control of Pollution) Act, 1981",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1389?view_type=search&col=123456789/1362",
+    "description": "Prevents and controls air pollution in India, regulating emissions from industries.",
+    "category": "Rule",
+    "tags": ["environment", "pollution", "rule"]
+  },
+  {
+    "title": "The Punjab Tenancy Act, 1887.",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19230?view_type=search&col=123456789/1362",
+    "description": "Regulates tenancy rights, rent, and landlord-tenant relations in Punjab.",
+    "category": "Rule",
+    "tags": ["land law", "tenancy", "rule"]
+  },
+  {
+    "title": "The Salar Jung Museum Act, 1961",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1646?view_type=search&col=123456789/1362",
+    "description": "Establishes and governs the Salar Jung Museum and its management.",
+    "category": "Rule",
+    "tags": ["museum", "culture", "rule"]
+  },
+  {
+    "title": "The Levy Sugar Price Equalisation Fund Act, 1976",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1495?view_type=search&col=123456789/1362",
+    "description": "Creates a fund to stabilize sugar prices and support the sugar industry.",
+    "category": "Rule",
+    "tags": ["industry", "finance", "rule"]
+  },
+  {
+    "title": "The Carriage by Road Act, 2007",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2043?view_type=search&col=123456789/1362",
+    "description": "Regulates the rights and liabilities of road carriers and passengers.",
+    "category": "Rule",
+    "tags": ["transport", "commerce", "rule"]
+  },
+  {
+    "title": "The Commissions of Inquiry Act, 1952",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1508?view_type=search&col=123456789/1362",
+    "description": "Provides for setting up commissions to investigate public matters of importance.",
+    "category": "Rule",
+    "tags": ["governance", "investigation", "rule"]
+  },
+  {
+    "title": "The Transplantation of Human Organs and Tissues Act, 1994",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1962?view_type=search&col=123456789/1362",
+    "description": "Regulates the removal, storage, and transplantation of human organs and tissues.",
+    "category": "Rule",
+    "tags": ["healthcare", "medical", "rule"]
+  },
+  {
+    "title": "The Rights of Persons with Disabilities Act, 2016.",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2155?view_type=search&col=123456789/1362",
+    "description": "Ensures rights, protection, and accessibility for persons with disabilities.",
+    "category": "Rule",
+    "tags": ["disability", "rights", "rule"]
+  },
+  {
+    "title": "The Delhi (Urban Areas) Tenants Relief Act, 1961",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1695?view_type=search&col=123456789/1362",
+    "description": "Provides relief and regulates tenancy rights for urban tenants in Delhi.",
+    "category": "Rule",
+    "tags": ["housing", "tenancy", "rule"]
+  },
+  {
+    "title": "The Recovery Of Debts And Bankruptcy Act, 1993",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1775?view_type=search&col=123456789/1362",
+    "description": "Facilitates recovery of debts and provides a framework for insolvency proceedings.",
+    "category": "Rule",
+    "tags": ["finance", "bankruptcy", "rule"]
+  },
+  {
+    "title": "The Major Port Authorities Act, 2021",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/16956?view_type=search&col=123456789/1362",
+    "description": "Regulates governance, operations, and development of major ports in India.",
+    "category": "Rule",
+    "tags": ["transport", "commerce", "rule"]
+  },
+  {
+    "title": "The Dam Safety Act, 2021",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/17002?view_type=search&col=123456789/1362",
+    "description": "Provides for regulation, safety, and inspection of dams in India.",
+    "category": "Rule",
+    "tags": ["infrastructure", "safety", "rule"]
+  },
+  {
+    "title": "The Jammu and Kashmir Reorganisation Act, 2019",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/12030?view_type=search&col=123456789/1362",
+    "description": "Reorganises Jammu & Kashmir into two union territories and defines administrative structure.",
+    "category": "Rule",
+    "tags": ["governance", "administration", "rule"]
+  },
+  {
+    "title": "The Insecticides Act, 1968",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1551?view_type=search&col=123456789/1362",
+    "description": "Regulates the import, manufacture, sale, transport, and use of insecticides in India.",
+    "category": "Rule",
+    "tags": ["agriculture", "health", "rule"]
+  },
+  {
+    "title": "The Bengal Military Police Act, 1892.",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19221?view_type=search&col=123456789/1362",
+    "description": "Regulates the organization, discipline, and powers of the Bengal Military Police.",
+    "category": "Rule",
+    "tags": ["law enforcement", "security", "rule"]
+  },
+  {
+    "title": "The Calcutta Land-Revenue Act, 1856",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19028?view_type=search&col=123456789/1362",
+    "description": "Governs land revenue collection and administration in Calcutta.",
+    "category": "Rule",
+    "tags": ["land law", "taxation", "rule"]
+  },
+  {
+    "title": "The Handlooms (Reservation of Articles for Production) Act, 1985",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1864?view_type=search&col=123456789/1362",
+    "description": "Reserves certain textile articles for production by handloom weavers to promote their industry.",
+    "category": "Rule",
+    "tags": ["industry", "textile", "rule"]
+  },
+  {
+    "title": "The Enemy Property Act, 1968",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1582?view_type=search&col=123456789/1362",
+    "description": "Deals with the management and disposal of property belonging to enemies of India.",
+    "category": "Rule",
+    "tags": ["property", "law", "rule"]
+  },
+  {
+    "title": "The Preference Shares (Regulation of Dividends) Act, 1960",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1572?view_type=search&col=123456789/1362",
+    "description": "Regulates the payment of dividends on preference shares to protect investors.",
+    "category": "Rule",
+    "tags": ["finance", "corporate", "rule"]
+  },
+  {
+    "title": "The King of Oudh's Estate Validation Act, 1917",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19249?view_type=search&col=123456789/1362",
+    "description": "Validates certain transactions and estates of the King of Oudh.",
+    "category": "Rule",
+    "tags": ["estate", "law", "rule"]
+  },
+  {
+    "title": "The Hotel-Receipts Tax Act, 1980",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1834?view_type=search&col=123456789/1362",
+    "description": "Imposes tax on receipts from hotel businesses for revenue generation.",
+    "category": "Rule",
+    "tags": ["tax", "business", "rule"]
+  },
+  {
+    "title": "The Guardians and Wards Act, 1890",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2318?view_type=search&col=123456789/1362",
+    "description": "Provides legal framework for appointing guardians for minors and managing their property.",
+    "category": "Rule",
+    "tags": ["family law", "guardianship", "rule"]
+  },
+  {
+    "title": "The Bureau of Indian Standards Act, 2016.",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2157?view_type=search&col=123456789/1362",
+    "description": "Establishes BIS to regulate standards, certification, and quality assurance in India.",
+    "category": "Rule",
+    "tags": ["standards", "quality", "rule"]
+  },
+  {
+    "title": "The Indian Antarctic Act, 2022",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19581?view_type=search&col=123456789/1362",
+    "description": "Regulates Indian activities and research in Antarctica for environmental protection and compliance.",
+    "category": "Rule",
+    "tags": ["environment", "research", "rule"]
+  },
+  {
+    "title": "The Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2124?view_type=search&col=123456789/1362",
+    "description": "Protects rights of street vendors and regulates vending activities in urban areas.",
+    "category": "Rule",
+    "tags": ["commerce", "urban", "rule"]
+  },
+  {
+    "title": "The North-Eastern Areas (Reorganisation) Act, 1971",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1534?view_type=search&col=123456789/1362",
+    "description": "Reorganises the administrative structure of North-Eastern states in India.",
+    "category": "Rule",
+    "tags": ["governance", "administration", "rule"]
+  },
+  {
+    "title": "The Election Laws (Extension to Sikkim) Act, 1976",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1405?view_type=search&col=123456789/1362",
+    "description": "Extends Indian election laws to the state of Sikkim.",
+    "category": "Rule",
+    "tags": ["elections", "law", "rule"]
+  },
+  {
+    "title": "The Departmentalisation of Union Accounts (Transfer of Personnel) Act, 1976",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1483?view_type=search&col=123456789/1362",
+    "description": "Facilitates transfer of personnel and departmentalization in union accounts.",
+    "category": "Rule",
+    "tags": ["administration", "finance", "rule"]
+  },
+  {
+    "title": "The Delhi Land Holdings (Ceiling) Act, 1960",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1568?view_type=search&col=123456789/1362",
+    "description": "Imposes a ceiling on land holdings to prevent concentration of property in Delhi.",
+    "category": "Rule",
+    "tags": ["land law", "property", "rule"]
+  },
+  {
+    "title": "The Partition Act, 1893",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/5657?view_type=search&col=123456789/1362",
+    "description": "Provides legal procedures for partitioning property among co-owners.",
+    "category": "Rule",
+    "tags": ["property", "law", "rule"]
+  },
+  {
+    "title": "The Delhi and Ajmer-Merwara Land Development Act, 1948",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1630?view_type=search&col=123456789/1362",
+    "description": "Regulates land development, acquisition, and management in Delhi and Ajmer-Merwara.",
+    "category": "Rule",
+    "tags": ["land law", "development", "rule"]
+  },
+  {
+    "title": "The Madras Civil Courts Act, 1873",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2299?view_type=search&col=123456789/1362",
+    "description": "Establishes and regulates civil courts in Madras Presidency.",
+    "category": "Rule",
+    "tags": ["judiciary", "law", "rule"]
+  },
+  {
+    "title": "The Central Provinces Court of Wards Act, 1899",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19232?view_type=search&col=123456789/1362",
+    "description": "Provides for management of estates of minors or incapacitated persons by courts.",
+    "category": "Rule",
+    "tags": ["property", "guardianship", "rule"]
+  },
+  {
+    "title": "The Equal Remuneration Act, 1976",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1494?view_type=search&col=123456789/1362",
+    "description": "Ensures equal pay for men and women for the same work and prohibits gender discrimination in employment.",
+    "category": "Rule",
+    "tags": ["employment", "gender equality", "rule"]
+  },
+  {
+    "title": "The Maritime Zones of India (Regulation of Fishing by Foreign Vessels) Act, 1981",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1817?view_type=search&col=123456789/1362",
+    "description": "Regulates fishing activities by foreign vessels in India's maritime zones.",
+    "category": "Rule",
+    "tags": ["maritime", "fishing", "rule"]
+  },
+  {
+    "title": "The Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2033?view_type=search&col=123456789/1362",
+    "description": "Provides for the maintenance and welfare of parents and senior citizens.",
+    "category": "Rule",
+    "tags": ["social welfare", "senior citizens", "rule"]
+  },
+  {
+    "title": "The Government Savings Promotion Act, 1873",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2281?view_type=search&col=123456789/1362",
+    "description": "Encourages government savings schemes and promotes public investment.",
+    "category": "Rule",
+    "tags": ["finance", "savings", "rule"]
+  },
+  {
+    "title": "The Apprentices Act, 1961",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1668?view_type=search&col=123456789/1362",
+    "description": "Regulates the training of apprentices in industries and establishments.",
+    "category": "Rule",
+    "tags": ["employment", "training", "rule"]
+  },
+  {
+    "title": "The Manipur (Village Authorities in Hill Areas) Act, 1956",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1666?view_type=search&col=123456789/1362",
+    "description": "Establishes village authorities for governance in hill areas of Manipur.",
+    "category": "Rule",
+    "tags": ["local governance", "manipur", "rule"]
+  },
+  {
+    "title": "The Compensatory Afforestation Fund Act, 2016.",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2151?view_type=search&col=123456789/1362",
+    "description": "Provides for compensatory afforestation to offset deforestation activities.",
+    "category": "Rule",
+    "tags": ["environment", "forestry", "rule"]
+  },
+  {
+    "title": "The Cigarettes and Other Tobacco Products (Prohibition of Advertisement and Regulation of Trade and Commerce, Production, Supply and Distribution) Act, 2003",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2053?view_type=search&col=123456789/1362",
+    "description": "Regulates production, distribution, and advertisement of tobacco products.",
+    "category": "Rule",
+    "tags": ["health", "tobacco", "rule"]
+  },
+  {
+    "title": "The National Commission for Homoeopathy Act, 2020.",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/15621?view_type=search&col=123456789/1362",
+    "description": "Establishes the National Commission for Homoeopathy to regulate education and practice.",
+    "category": "Rule",
+    "tags": ["health", "education", "rule"]
+  },
+  {
+    "title": "The Partition of Revenue-Paying Estates Act, 1863",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19033?view_type=search&col=123456789/1362",
+    "description": "Provides legal procedures for partitioning revenue-paying estates among proprietors.",
+    "category": "Rule",
+    "tags": ["property", "law", "rule"]
+  },
+  {
+    "title": "The Oudh Estates Act, 1869",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19149?view_type=search&col=123456789/1362",
+    "description": "Governs management and administration of estates in the Oudh region.",
+    "category": "Rule",
+    "tags": ["estate", "law", "rule"]
+  },
+  {
+    "title": "The Smugglers and Foreign Exchange Manipulators (Forfeiture of Property) Act, 1976",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1490?view_type=search&col=123456789/1362",
+    "description": "Allows forfeiture of property involved in smuggling or foreign exchange violations.",
+    "category": "Rule",
+    "tags": ["crime", "finance", "rule"]
+  },
+  {
+    "title": "The Delhi Police Act, 1978",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1742?view_type=search&col=123456789/1362",
+    "description": "Provides legal framework for police administration and powers in Delhi.",
+    "category": "Rule",
+    "tags": ["law enforcement", "delhi", "rule"]
+  },
+  {
+    "title": "The National Institutes of Food Technology, Entrepreneurship and Management Act, 2021.",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/16941?view_type=search&col=123456789/1362",
+    "description": "Establishes NIFTEM institutions for education and research in food technology and entrepreneurship.",
+    "category": "Rule",
+    "tags": ["education", "food technology", "rule"]
+  },
+  {
+    "title": "The Illegal Migrants (Determination by Tribunals) Act, 1983",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1766?view_type=search&col=123456789/1362",
+    "description": "Provides procedures for detecting and deporting illegal migrants via tribunals.",
+    "category": "Rule",
+    "tags": ["immigration", "law", "rule"]
+  },
+  {
+    "title": "The Limited Liability Partnership Act, 2008",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2023?view_type=search&col=123456789/1362",
+    "description": "Regulates formation, governance, and compliance of LLPs in India.",
+    "category": "Rule",
+    "tags": ["corporate", "business", "rule"]
+  },
+  {
+    "title": "The Indian Institute of Management Act, 2017",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2248?view_type=search&col=123456789/1362",
+    "description": "Provides for governance and functioning of IIMs in India.",
+    "category": "Rule",
+    "tags": ["education", "management", "rule"]
+  },
+  {
+    "title": "The Regional Rural Banks Act, 1976",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1492?view_type=search&col=123456789/1362",
+    "description": "Establishes regional rural banks to provide banking services in rural areas.",
+    "category": "Rule",
+    "tags": ["finance", "rural", "rule"]
+  },
+  {
+    "title": "The Delhi Primary Education Act, 1960",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1543?view_type=search&col=123456789/1362",
+    "description": "Regulates primary education and administration of schools in Delhi.",
+    "category": "Rule",
+    "tags": ["education", "delhi", "rule"]
+  },
+  {
+    "title": "The State Bank of Sikkim (Acquisition of Shares) and Miscellaneous Provisions Act, 1982",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1773?view_type=search&col=123456789/1362",
+    "description": "Provides legal framework for acquisition of shares and operations of State Bank of Sikkim.",
+    "category": "Rule",
+    "tags": ["finance", "sikkim", "rule"]
+  },
+  {
+    "title": "The Delhi Sales Tax Act, 1975",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1637?view_type=search&col=123456789/1362",
+    "description": "Regulates levy and collection of sales tax in Delhi.",
+    "category": "Rule",
+    "tags": ["tax", "delhi", "rule"]
+  },
+  {
+    "title": "The National Dental Commission Act, 2023",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19795?view_type=search&col=123456789/1362",
+    "description": "Establishes National Dental Commission to regulate dental education and profession.",
+    "category": "Rule",
+    "tags": ["health", "education", "rule"]
+  },
+  {
+    "title": "The Coast Guard Act, 1978",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1734?view_type=search&col=123456789/1362",
+    "description": "Provides legal framework for the functioning, powers, and duties of the Indian Coast Guard.",
+    "category": "Rule",
+    "tags": ["maritime", "law enforcement", "rule"]
+  },
+  {
+    "title": "The Protection of Plant Varieties and Farmers Rights Act, 2001",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1909?view_type=search&col=123456789/1362",
+    "description": "Protects rights of plant breeders and farmers, promoting development of new plant varieties.",
+    "category": "Rule",
+    "tags": ["agriculture", "IPR", "rule"]
+  },
+  {
+    "title": "The Mediation Act, 2023",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19637?view_type=search&col=123456789/1362",
+    "description": "Establishes legal provisions for mediation and dispute resolution in India.",
+    "category": "Rule",
+    "tags": ["law", "dispute resolution", "rule"]
+  },
+  {
+    "title": "The Indian Institutes of Information Technology (Public-private Partnership) Act, 2017",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2245?view_type=search&col=123456789/1362",
+    "description": "Provides governance and operational framework for IIITs established under PPP mode.",
+    "category": "Rule",
+    "tags": ["education", "technology", "rule"]
+  },
+  {
+    "title": "The National Bank for Financing Infrastructure and Development Act, 2021",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/16802?view_type=search&col=123456789/1362",
+    "description": "Establishes a national bank to finance infrastructure and development projects in India.",
+    "category": "Rule",
+    "tags": ["finance", "infrastructure", "rule"]
+  },
+  {
+    "title": "The Hooghly Docking and Engineering Company Limited (Acquisition and Transfer of Undertakings) Act, 1984",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1845?view_type=search&col=123456789/1362",
+    "description": "Regulates acquisition and transfer of undertakings of Hooghly Docking and Engineering Company.",
+    "category": "Rule",
+    "tags": ["industry", "corporate", "rule"]
+  },
+  {
+    "title": "The National Nursing and Midwifery Commission Act, 2023",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19796?view_type=search&col=123456789/1362",
+    "description": "Creates a national commission to regulate nursing and midwifery education and practice.",
+    "category": "Rule",
+    "tags": ["healthcare", "education", "rule"]
+  },
+  {
+    "title": "The National Highways Act, 1956",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1651?view_type=search&col=123456789/1362",
+    "description": "Provides for declaration, development, and maintenance of national highways in India.",
+    "category": "Rule",
+    "tags": ["transport", "infrastructure", "rule"]
+  },
+  {
+    "title": "The Patents Act, 1970",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1392?view_type=search&col=123456789/1362",
+    "description": "Regulates patent rights, protection, and enforcement in India.",
+    "category": "Rule",
+    "tags": ["IPR", "innovation", "rule"]
+  },
+  {
+    "title": "The Terrorist Affected Areas (Special Courts) Act, 1984",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1831?view_type=search&col=123456789/1362",
+    "description": "Establishes special courts for speedy trial of offenses in terrorist-affected areas.",
+    "category": "Rule",
+    "tags": ["law", "security", "rule"]
+  },
+  {
+    "title": "The Bengal Indigo Contracts Act, 1836",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/18935?view_type=search&col=123456789/1362",
+    "description": "Regulates contracts and agreements related to indigo cultivation in Bengal.",
+    "category": "Rule",
+    "tags": ["agriculture", "contracts", "rule"]
+  },
+  {
+    "title": "The Boundary-Marks, Bombay 1846",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/18943?view_type=search&col=123456789/1362",
+    "description": "Provides rules for demarcation of boundaries in Bombay region.",
+    "category": "Rule",
+    "tags": ["property", "law", "rule"]
+  },
+  {
+    "title": "The Central Sales Tax Act, 1956",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2484?view_type=search&col=123456789/1362",
+    "description": "Regulates levy and collection of sales tax on inter-state sales of goods.",
+    "category": "Rule",
+    "tags": ["tax", "commerce", "rule"]
+  },
+  {
+    "title": "The Madras Rent and Revenue Sales Act, 1839",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19545?view_type=search&col=123456789/1362",
+    "description": "Governs rent, revenue, and property sales in Madras region.",
+    "category": "Rule",
+    "tags": ["property", "finance", "rule"]
+  },
+  {
+    "title": "The Bonded Labour System (Abolition) Act, 1976",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1491?view_type=search&col=123456789/1362",
+    "description": "Abolishes bonded labor and provides for rehabilitation of affected workers.",
+    "category": "Rule",
+    "tags": ["labor", "human rights", "rule"]
+  },
+  {
+    "title": "The National Security Guard Act, 1986",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1853?view_type=search&col=123456789/1362",
+    "description": "Provides legal basis for the creation and functioning of the National Security Guard.",
+    "category": "Rule",
+    "tags": ["security", "law enforcement", "rule"]
+  },
+  {
+    "title": "The Public Sector Iron and Steel Companies (Restructuring) and Miscellaneous Provisions Act, 1978",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1707?view_type=search&col=123456789/1362",
+    "description": "Facilitates restructuring of public sector iron and steel companies in India.",
+    "category": "Rule",
+    "tags": ["industry", "corporate", "rule"]
+  },
+  {
+    "title": "The Bombay Reorganisation Act, 1960",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1535?view_type=search&col=123456789/1362",
+    "description": "Provides for reorganization of Bombay State into Maharashtra and Gujarat.",
+    "category": "Rule",
+    "tags": ["administration", "state", "rule"]
+  },
+  {
+    "title": "The National Rural Employment Guarantee (Extension to Jammu and Kashmir) Act, 2007",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2088?view_type=search&col=123456789/1362",
+    "description": "Extends the National Rural Employment Guarantee Scheme to Jammu and Kashmir.",
+    "category": "Rule",
+    "tags": ["employment", "rural development", "rule"]
+  },
+  {
+    "title": "The National Institutes of Design Act, 2014",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2132?view_type=search&col=123456789/1362",
+    "description": "Establishes National Institutes of Design and sets governance guidelines.",
+    "category": "Rule",
+    "tags": ["education", "design", "rule"]
+  },
+  {
+    "title": "The Swadeshi Cotton Mills Company Limited (Acquisition and Transfer of Undertakings) Act, 1986",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1871?view_type=search&col=123456789/1362",
+    "description": "Regulates acquisition and transfer of undertakings of Swadeshi Cotton Mills Company.",
+    "category": "Rule",
+    "tags": ["industry", "corporate", "rule"]
+  },
+   {
+    "title": "The Dalmia Dadri Cement Limited (Acquisition and Transfer of Undertakings) Act, 1981",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2477?view_type=search&col=123456789/1362",
+    "description": "Regulates the acquisition and transfer of undertakings of Dalmia Dadri Cement Limited.",
+    "category": "Rule",
+    "tags": ["industry", "corporate", "rule"]
+  },
+  {
+    "title": "The Central Provinces Tenancy Act, 1898",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19250?view_type=search&col=123456789/1362",
+    "description": "Governs tenancy, land rights, and related disputes in Central Provinces region.",
+    "category": "Rule",
+    "tags": ["land", "property", "rule"]
+  },
+  {
+    "title": "The Sashastra Seema Bal Act, 2007",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2039?view_type=search&col=123456789/1362",
+    "description": "Establishes the Sashastra Seema Bal for guarding India's borders and maintaining internal security.",
+    "category": "Rule",
+    "tags": ["security", "border", "rule"]
+  },
+  {
+    "title": "The Chartered Accountants Act, 1949",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1552?view_type=search&col=123456789/1362",
+    "description": "Provides for regulation, licensing, and professional standards for Chartered Accountants in India.",
+    "category": "Rule",
+    "tags": ["finance", "profession", "rule"]
+  },
+  {
+    "title": "The Metro Railways (Construction of Works) Act, 1978",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1737?view_type=search&col=123456789/1362",
+    "description": "Regulates construction and operation of metro railways in India.",
+    "category": "Rule",
+    "tags": ["transport", "infrastructure", "rule"]
+  },
+  {
+    "title": "The Indian Veterinary Council Act, 1984",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1812?view_type=search&col=123456789/1362",
+    "description": "Establishes the Indian Veterinary Council to regulate veterinary education and practice.",
+    "category": "Rule",
+    "tags": ["veterinary", "education", "rule"]
+  },
+  {
+    "title": "The Madras District Police Act, 1859",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19099?view_type=search&col=123456789/1362",
+    "description": "Provides legal framework for police administration in Madras districts.",
+    "category": "Rule",
+    "tags": ["law enforcement", "administration", "rule"]
+  },
+  {
+    "title": "The Delhi Apartment Ownership Act, 1986",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1805?view_type=search&col=123456789/1362",
+    "description": "Regulates ownership, management, and rights of apartment owners in Delhi.",
+    "category": "Rule",
+    "tags": ["property", "housing", "rule"]
+  },
+  {
+    "title": "The National Institutes of Technology, Science Education and Research Act, 2007",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2083?view_type=search&col=123456789/1362",
+    "description": "Provides governance and operational framework for NITs, IISERs, and similar institutes.",
+    "category": "Rule",
+    "tags": ["education", "technology", "rule"]
+  },
+  {
+    "title": "The Delhi Motor Vehicles Taxation Act, 1962",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1454?view_type=search&col=123456789/1362",
+    "description": "Regulates taxation of motor vehicles in the National Capital Territory of Delhi.",
+    "category": "Rule",
+    "tags": ["transport", "tax", "rule"]
+  },
+  {
+    "title": "The Competition Act, 2002",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2010?view_type=search&col=123456789/1362",
+    "description": "Prevents anti-competitive practices and promotes fair competition in India.",
+    "category": "Rule",
+    "tags": ["commerce", "competition", "rule"]
+  },
+  {
+    "title": "The Provincial Insolvency Act, 1920",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19723?view_type=search&col=123456789/1362",
+    "description": "Governs insolvency and bankruptcy proceedings in provincial areas.",
+    "category": "Rule",
+    "tags": ["finance", "law", "rule"]
+  },
+  {
+    "title": "The Andhra Pradesh Reorganisation Act, 2014",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2123?view_type=search&col=123456789/1362",
+    "description": "Provides legal framework for bifurcation of Andhra Pradesh and creation of Telangana.",
+    "category": "Rule",
+    "tags": ["administration", "state", "rule"]
+  },
+  {
+    "title": "The City of Bombay Municipal (Supplementary) Act, 1888",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19546?view_type=search&col=123456789/1362",
+    "description": "Supplementary provisions for municipal administration of Bombay city.",
+    "category": "Rule",
+    "tags": ["municipal", "administration", "rule"]
+  },
+  {
+    "title": "The Carriage by Air Act, 1972",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1658?view_type=search&col=123456789/1362",
+    "description": "Implements international conventions relating to liability in air transport.",
+    "category": "Rule",
+    "tags": ["transport", "aviation", "rule"]
+  },
+  {
+    "title": "The Lady Hardinge Medical College and Hospital (Acquisition and Miscellaneous Provisions) Act, 1977",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1623?view_type=search&col=123456789/1362",
+    "description": "Regulates acquisition, management, and administration of Lady Hardinge Medical College and Hospital.",
+    "category": "Rule",
+    "tags": ["healthcare", "education", "rule"]
+  },
+  {
+    "title": "The British India Corporation Limited (Acquisition of Shares) Act, 1981",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1790?view_type=search&col=123456789/1362",
+    "description": "Governs acquisition of shares and management of British India Corporation Limited.",
+    "category": "Rule",
+    "tags": ["industry", "corporate", "rule"]
+  },
+  {
+    "title": "The Chaparmukh-Silghat Railway Line and the Katakhal-Lalabazar Railway Line (Nationalisation) Act, 1982",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1784?view_type=search&col=123456789/1362",
+    "description": "Provides for the nationalisation of specified railway lines for government operation.",
+    "category": "Rule",
+    "tags": ["transport", "railway", "rule"]
+  },
+  {
+    "title": "The Dr. Rajendra Prasad Central Agricultural University Act, 2016",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2150?view_type=search&col=123456789/1362",
+    "description": "Establishes Dr. Rajendra Prasad Central Agricultural University and governs its functioning.",
+    "category": "Rule",
+    "tags": ["education", "agriculture", "rule"]
+  },
+  {
+    "title": "The Prohibition of Child Marriage Act, 2006",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2055?view_type=search&col=123456789/1362",
+    "description": "Prohibits child marriages and provides penalties for violations.",
+    "category": "Rule",
+    "tags": ["social", "protection", "rule"]
+  },
+  {
+    "title": "The Anti-Hijacking Act, 2016",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2149?view_type=search&col=123456789/1362",
+    "description": "Defines offenses related to aircraft hijacking and prescribes punishment.",
+    "category": "Rule",
+    "tags": ["security", "aviation", "rule"]
+  },
+  {
+    "title": "The Companies Act, 2013",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2114?view_type=search&col=123456789/1362",
+    "description": "Regulates incorporation, governance, and operations of companies in India.",
+    "category": "Rule",
+    "tags": ["corporate", "business", "rule"]
+  },
+  {
+    "title": "The Delhi Municipal Corporation Act, 1957",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1410?view_type=search&col=123456789/1362",
+    "description": "Provides framework for municipal administration in Delhi.",
+    "category": "Rule",
+    "tags": ["municipal", "administration", "rule"]
+  },
+  {
+    "title": "The Bengal Land Revenue Sales Act, 1859",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19227?view_type=search&col=123456789/1362",
+    "description": "Regulates sale of land for recovery of revenue in Bengal.",
+    "category": "Rule",
+    "tags": ["land", "revenue", "rule"]
+  },
+  {
+    "title": "The Britannia Engineering Company Limited (Mokameh Unit) and the Arthur Butler and Company (Muzaffarpore) Limited (Acquisition and Transfer of Undertakings) Act, 1978",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1469?view_type=search&col=123456789/1362",
+    "description": "Provides for acquisition and transfer of undertakings of specified companies.",
+    "category": "Rule",
+    "tags": ["industry", "corporate", "rule"]
+  },
+  {
+    "title": "The Inchek Tyres Limited and National Rubber Manufacturers Limited (Nationalisation) Act, 1984",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1822?view_type=search&col=123456789/1362",
+    "description": "Nationalises the specified tyre manufacturing companies for government control.",
+    "category": "Rule",
+    "tags": ["industry", "nationalisation", "rule"]
+  },
+  {
+    "title": "The Unlawful Activities (Prevention) Act, 1967",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1470?view_type=search&col=123456789/1362",
+    "description": "Prevents unlawful activities threatening India's sovereignty and prescribes penalties.",
+    "category": "Rule",
+    "tags": ["security", "law enforcement", "rule"]
+  },
+  {
+    "title": "The National Forensic Sciences University Act, 2020",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/15623?view_type=search&col=123456789/1362",
+    "description": "Establishes the National Forensic Sciences University and governs its functioning.",
+    "category": "Rule",
+    "tags": ["education", "forensics", "rule"]
+  },
+  {
+    "title": "The Prevention of Money-Laundering Act, 2002",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2036?view_type=search&col=123456789/1362",
+    "description": "Provides for prevention of money laundering and confiscation of proceeds of crime.",
+    "category": "Rule",
+    "tags": ["finance", "crime", "rule"]
+  },
+  {
+    "title": "The Gift-tax Act, 1958",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2483?view_type=search&col=123456789/1362",
+    "description": "Regulates taxation on gifts exceeding specified limits.",
+    "category": "Rule",
+    "tags": ["finance", "tax", "rule"]
+  },
+  {
+    "title": "The Institutes of Technology Act, 1961",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1705?view_type=search&col=123456789/1362",
+    "description": "Establishes and governs Institutes of Technology in India.",
+    "category": "Rule",
+    "tags": ["education", "technology", "rule"]
+  },
+  {
+    "title": "The Provincial Small Cause Courts Act, 1887",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2312?view_type=search&col=123456789/1362",
+    "description": "Governs operation of small cause courts in provincial areas.",
+    "category": "Rule",
+    "tags": ["judiciary", "law", "rule"]
+  },
+  {
+    "title": "The Bengal, Agra and Assam Civil Courts Act, 1887",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2313?view_type=search&col=123456789/1362",
+    "description": "Provides framework for civil courts in Bengal, Agra, and Assam.",
+    "category": "Rule",
+    "tags": ["judiciary", "law", "rule"]
+  },
+  {
+    "title": "The Cost Accountants Act, 1959",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1385?view_type=search&col=123456789/1362",
+    "description": "Regulates the profession and practice of Cost Accountants in India.",
+    "category": "Rule",
+    "tags": ["finance", "profession", "rule"]
+  },
+  {
+    "title": "The Industrial Development Bank (Transfer of Undertaking and Repeal) Act, 2003",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2026?view_type=search&col=123456789/1362",
+    "description": "Transfers undertakings of the Industrial Development Bank and repeals prior provisions.",
+    "category": "Rule",
+    "tags": ["finance", "banking", "rule"]
+  },
+  {
+    "title": "The Pondicherry University Act, 1985",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1862?view_type=search&col=123456789/1362",
+    "description": "Establishes Pondicherry University and provides governance framework.",
+    "category": "Rule",
+    "tags": ["education", "university", "rule"]
+  },
+  {
+    "title": "The Wealth-tax Act, 1957",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/3123?view_type=search&col=123456789/1362",
+    "description": "Imposes tax on wealth of individuals, Hindu Undivided Families, and companies.",
+    "category": "Rule",
+    "tags": ["finance", "tax", "rule"]
+  },
+  {
+    "title": "The Geneva Conventions Act, 1960",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1559?view_type=search&col=123456789/1362",
+    "description": "Enacts the Geneva Conventions into Indian law, governing treatment of war victims.",
+    "category": "Rule",
+    "tags": ["international", "war law", "rule"]
+  },
+  {
+    "title": "The Delhi Rent Control Act, 1958",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19223?view_type=search&col=123456789/1362",
+    "description": "Regulates rental housing, tenant rights, and landlord obligations in Delhi.",
+    "category": "Rule",
+    "tags": ["housing", "rent", "rule"]
+  },
+  {
+    "title": "The Durgah Khawaja Saheb Act, 1955",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1506?view_type=search&col=123456789/1362",
+    "description": "Provides for management and protection of the Durgah Khawaja Saheb shrine.",
+    "category": "Rule",
+    "tags": ["religion", "heritage", "rule"]
+  },
+  {
+    "title": "The Tobacco Duty (Town of Bombay) Act, 1857",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19100?view_type=search&col=123456789/1362",
+    "description": "Levy of duty on tobacco products in Bombay town.",
+    "category": "Rule",
+    "tags": ["tax", "commerce", "rule"]
+  },
+  {
+    "title": "The North-western Provinces and Oudh Act, 1890",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19224?view_type=search&col=123456789/1362",
+    "description": "Governs administration and law provisions for the North-western Provinces and Oudh.",
+    "category": "Rule",
+    "tags": ["administration", "law", "rule"]
+  },
+  {
+    "title": "The English and Foreign Languages University Act, 2006",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2078?view_type=search&col=123456789/1362",
+    "description": "Establishes and governs the English and Foreign Languages University.",
+    "category": "Rule",
+    "tags": ["education", "university", "rule"]
+  },
+  {
+    "title": "The Income-tax Act, 1961",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2435?view_type=search&col=123456789/1362",
+    "description": "Regulates taxation of income for individuals, companies, and entities in India.",
+    "category": "Rule",
+    "tags": ["finance", "tax", "rule"]
+  },
+  {
+    "title": "The Chemical Weapons Convention Act, 2000",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1916?view_type=search&col=123456789/1362",
+    "description": "Implements obligations under the Chemical Weapons Convention, prohibiting development and use.",
+    "category": "Rule",
+    "tags": ["security", "international", "rule"]
+  },
+  {
+    "title": "The Export-Import Bank of India Act, 1981",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1782?view_type=search&col=123456789/1362",
+    "description": "Establishes the Export-Import Bank of India and regulates its functions.",
+    "category": "Rule",
+    "tags": ["finance", "banking", "rule"]
+  },
+  {
+    "title": "The Jammu and Kashmir (Extension of Laws) Act, 1956",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1722?view_type=search&col=123456789/1362",
+    "description": "Extends certain central laws to Jammu and Kashmir state.",
+    "category": "Rule",
+    "tags": ["law", "state", "rule"]
+  },
+  {
+    "title": "The Prisoners Act, 1900",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2334?view_type=search&col=123456789/1362",
+    "description": "Provides rules for custody, treatment, and management of prisoners.",
+    "category": "Rule",
+    "tags": ["law", "prison", "rule"]
+  },
+  {
+    "title": "The Bengal Embankment Act, 1855",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19037?view_type=search&col=123456789/1362",
+    "description": "Governs construction and maintenance of embankments in Bengal.",
+    "category": "Rule",
+    "tags": ["infrastructure", "water management", "rule"]
+  },
+  {
+    "title": "The Indira Gandhi National Open University Act, 1985",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1850?view_type=search&col=123456789/1362",
+    "description": "Establishes IGNOU and regulates its distance education programs.",
+    "category": "Rule",
+    "tags": ["education", "distance learning", "rule"]
+  },
+  {
+    "title": "The Rajiv Gandhi Institute of Petroleum Technology Act, 2007",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2062?view_type=search&col=123456789/1362",
+    "description": "Establishes RGIPT and governs its academic and administrative functions.",
+    "category": "Rule",
+    "tags": ["education", "technology", "rule"]
+  },
+  {
+    "title": "The Customs Tariff Act, 1975",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/8774?view_type=search&col=123456789/1362",
+    "description": "Regulates customs duties on imports and exports in India.",
+    "category": "Rule",
+    "tags": ["finance", "trade", "rule"]
+  },
+  {
+    "title": "The Central Universities Act, 2009",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2080?view_type=search&col=123456789/1362",
+    "description": "Governs establishment, administration, and powers of central universities in India.",
+    "category": "Rule",
+    "tags": ["education", "university", "rule"]
+  },
+  {
+    "title": "The Rajiv Gandhi University Act, 2006",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2087?view_type=search&col=123456789/1362",
+    "description": "Establishes Rajiv Gandhi University and provides governance provisions.",
+    "category": "Rule",
+    "tags": ["education", "university", "rule"]
+  },
+  {
+    "title": "The Tripura University Act, 2006",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2094?view_type=search&col=123456789/1362",
+    "description": "Establishes Tripura University and regulates its administration.",
+    "category": "Rule",
+    "tags": ["education", "university", "rule"]
+  },
+  {
+    "title": "The Sikkim University Act, 2006",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2049?view_type=search&col=123456789/1362",
+    "description": "Establishes Sikkim University and provides legal framework for its functioning.",
+    "category": "Rule",
+    "tags": ["education", "university", "rule"]
+  },
+  {
+    "title": "The Indira Gandhi National Tribal University Act, 2007",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2016?view_type=search&col=123456789/1362",
+    "description": "Establishes IGN Tribal University and regulates its administration and academic programs.",
+    "category": "Rule",
+    "tags": ["education", "tribal", "rule"]
+  }
+]

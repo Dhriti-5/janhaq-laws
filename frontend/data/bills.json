@@ -1,0 +1,100 @@
+[
+  {
+    "title": "The Indian Bills of Lading Act 1856",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2278?view_type=search&col=123456789/1362",
+    "description": "Regulates the rights, liabilities, and responsibilities of carriers and shippers under bills of lading.",
+    "category": "Bill",
+    "tags": ["commercial law", "shipping", "contracts", "bill"]
+  },
+  {
+    "title": "The Provisional Collection of Taxes Act, 2023",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19720?view_type=search&col=123456789/1362",
+    "description": "Provides legal authority for the provisional collection of taxes before the enactment of the annual Finance Act.",
+    "category": "Bill",
+    "tags": ["tax law", "finance", "revenue", "bill"]
+  },
+  {
+    "title": "The Jammu and Kashmir Reorganisation Act, 2019",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/12030?view_type=search&col=123456789/1362",
+    "description": "Reorganises the state of Jammu & Kashmir into two Union Territories: Jammu & Kashmir and Ladakh.",
+    "category": "Bill",
+    "tags": ["constitutional law", "territorial reorganization", "Jammu & Kashmir", "bill"]
+  },
+  {
+    "title": "The Export-Import Bank of India Act, 1981",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1782?view_type=search&col=123456789/1362",
+    "description": "Establishes the Export-Import Bank of India to provide financial assistance for export and import trade.",
+    "category": "Bill",
+    "tags": ["finance law", "banking", "exports/imports", "bill"]
+  },
+  {
+    "title": "The Negotiable Instruments Act, 1881",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2189?view_type=search&col=123456789/1362",
+    "description": "Defines the law relating to negotiable instruments such as promissory notes, bills of exchange, and cheques.",
+    "category": "Bill",
+    "tags": ["financial law", "banking", "contracts", "bill"]
+  },
+  {
+    "title": "The King of Oudh's Estate Validation Act, 1917",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19249?view_type=search&col=123456789/1362",
+    "description": "Validates and confirms estate rights and transfers in the former Kingdom of Oudh.",
+    "category": "Bill",
+    "tags": ["property law", "historical law", "estates", "bill"]
+  },
+  {
+    "title": "The Mahatma Gandhi National Rural Employment Guarantee Act, 2005",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2014?view_type=search&col=123456789/1362",
+    "description": "Guarantees at least 100 days of wage employment in a financial year to rural households.",
+    "category": "Bill",
+    "tags": ["labor law", "employment guarantee", "rural development", "bill"]
+  },
+  {
+    "title": "The National Bank for Financing Infrastructure and Development Act, 2021",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/16802?view_type=search&col=123456789/1362",
+    "description": "Establishes a bank to finance infrastructure projects and development in India.",
+    "category": "Bill",
+    "tags": ["finance law", "infrastructure", "development", "bill"]
+  },
+  {
+    "title": "The Delhi Sales Tax Act, 1975",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1637?view_type=search&col=123456789/1362",
+    "description": "Regulates the levy and collection of sales tax on goods in Delhi.",
+    "category": "Bill",
+    "tags": ["tax law", "Delhi", "sales tax", "bill"]
+  },
+  {
+    "title": "The Bengal Land Revenue Sales Act, 1859",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19227?view_type=search&col=123456789/1362",
+    "description": "Governs the sale and recovery of land revenue in Bengal.",
+    "category": "Bill",
+    "tags": ["land revenue", "Bengal", "property law", "bill"]
+  },
+  {
+    "title": "The Coast Guard Act, 1978",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1734?view_type=search&col=123456789/1362",
+    "description": "Provides for the establishment, functions, and duties of the Indian Coast Guard.",
+    "category": "Bill",
+    "tags": ["maritime law", "security", "coast guard", "bill"]
+  },
+  {
+    "title": "The Companies Act, 2013",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2114?view_type=search&col=123456789/1362",
+    "description": "Regulates incorporation, management, and governance of companies in India.",
+    "category": "Bill",
+    "tags": ["corporate law", "companies", "business", "bill"]
+  },
+  {
+    "title": "The Delhi Municipal Corporation Act, 1957",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1410?view_type=search&col=123456789/1362",
+    "description": "Governs the administration and functions of municipal corporations in Delhi.",
+    "category": "Bill",
+    "tags": ["municipal law", "urban governance", "Delhi", "bill"]
+  },
+  {
+    "title": "The Income-tax Act, 1961",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2435?view_type=search&col=123456789/1362",
+    "description": "Governs taxation of income for individuals and entities in India.",
+    "category": "Bill",
+    "tags": ["tax law", "income tax", "finance", "bill"]
+  }
+]

@@ -1,0 +1,751 @@
+[
+  {
+    "title": "The Punjab Laws Act, 1872",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19137?view_type=search&col=123456789/1362",
+    "description": "Governs the application and enforcement of laws in the Punjab region.",
+    "category": "Central Act",
+    "tags": ["law", "Punjab", "central act"]
+  },
+  {
+    "title": "The Dock Workers (Safety, Health and Welfare) Act, 1986",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1867?view_type=search&col=123456789/1362",
+    "description": "Provides regulations for safety, health, and welfare of dock workers.",
+    "category": "Central Act",
+    "tags": ["labor law", "safety", "health", "central act"]
+  },
+  {
+    "title": "The National Judicial Appointments Commission Act, 2014",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2142?view_type=search&col=123456789/1362",
+    "description": "Establishes framework for judicial appointments and accountability.",
+    "category": "Central Act",
+    "tags": ["judiciary", "appointments", "law", "central act"]
+  },
+  {
+    "title": "The Dehra Dun Act, 1871",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19098?view_type=search&col=123456789/1362",
+    "description": "Defines administrative and governance provisions for Dehra Dun.",
+    "category": "Central Act",
+    "tags": ["administration", "Dehra Dun", "law", "central act"]
+  },
+  {
+    "title": "The National Commission for Homoeopathy Act, 2020",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/15621?view_type=search&col=123456789/1362",
+    "description": "Establishes the National Commission for regulating education and practice of homoeopathy.",
+    "category": "Central Act",
+    "tags": ["health law", "education", "homoeopathy", "central act"]
+  },
+  {
+    "title": "The Calcutta Land-Revenue Act, 1856",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19028?view_type=search&col=123456789/1362",
+    "description": "Governs collection and management of land revenue in Calcutta region.",
+    "category": "Central Act",
+    "tags": ["land law", "revenue", "Calcutta", "central act"]
+  },
+  {
+    "title": "The Madras Board of Revenue, 1849",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19544?view_type=search&col=123456789/1362",
+    "description": "Defines the structure and powers of the Madras Board of Revenue.",
+    "category": "Central Act",
+    "tags": ["administration", "revenue", "Madras", "central act"]
+  },
+  {
+    "title": "The All-India Institute of Medical Science Act, 1956",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1699?view_type=search&col=123456789/1362",
+    "description": "Establishes AIIMS and governs its administration and functioning.",
+    "category": "Central Act",
+    "tags": ["education law", "medical", "AIIMS", "central act"]
+  },
+  {
+    "title": "The Anusandhan National Research Foundation Act, 2023",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19767?view_type=search&col=123456789/1362",
+    "description": "Establishes the foundation for promoting and funding research in India.",
+    "category": "Central Act",
+    "tags": ["research", "science", "education law", "central act"]
+  },
+  {
+    "title": "The Bengal Land Holder's Attendance Act, 1848",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/18942?view_type=search&col=123456789/1362",
+    "description": "Requires landholders in Bengal to attend official proceedings related to land revenue.",
+    "category": "Central Act",
+    "tags": ["land law", "Bengal", "administration", "central act"]
+  },
+  {
+    "title": "The National Dental Commission Act, 2023",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19795?view_type=search&col=123456789/1362",
+    "description": "Establishes the National Dental Commission for regulating dental education and practice.",
+    "category": "Central Act",
+    "tags": ["health law", "dental", "education", "central act"]
+  },
+  {
+    "title": "The National Nursing and Midwifery Commission Act, 2023",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19796?view_type=search&col=123456789/1362",
+    "description": "Creates a national commission to regulate nursing and midwifery education and practice.",
+    "category": "Central Act",
+    "tags": ["health law", "nursing", "education", "central act"]
+  },
+  {
+    "title": "The Indian Institute of Management Act, 2017",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2248?view_type=search&col=123456789/1362",
+    "description": "Governs establishment, administration, and functioning of IIMs in India.",
+    "category": "Central Act",
+    "tags": ["education law", "management", "IIM", "central act"]
+  },
+  {
+    "title": "The Rent Recovery Act, 1853",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19039?view_type=search&col=123456789/1362",
+    "description": "Regulates the recovery of rents from tenants and lessees.",
+    "category": "Central Act",
+    "tags": ["land law", "tenancy", "revenue", "central act"]
+  },
+  {
+    "title": "The Bureau of Indian Standards Act, 2016",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2157?view_type=search&col=123456789/1362",
+    "description": "Establishes BIS and defines standards for goods, services, and certification.",
+    "category": "Central Act",
+    "tags": ["standards", "industry", "quality", "central act"]
+  },
+  {
+    "title": "The Inland Waterways Authority of India Act, 1985",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1856?view_type=search&col=123456789/1362",
+    "description": "Establishes authority to develop and regulate inland waterways for transport.",
+    "category": "Central Act",
+    "tags": ["transport", "infrastructure", "waterways", "central act"]
+  },
+   {
+    "title": "The Betwa River Board Act, 1976",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1479?view_type=search&col=123456789/1362",
+    "description": "Establishes the Betwa River Board for water resource management and regulation.",
+    "category": "Central Act",
+    "tags": ["law", "water resources", "central act"]
+  },
+  {
+    "title": "The Dam Safety Act, 2021",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/17002?view_type=search&col=123456789/1362",
+    "description": "Regulates the safety, inspection, and maintenance of dams across India.",
+    "category": "Central Act",
+    "tags": ["infrastructure", "safety", "central act"]
+  },
+  {
+    "title": "The Warehousing (Development and Regulation) Act, 2007",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2020?view_type=search&col=123456789/1362",
+    "description": "Provides guidelines for development and regulation of warehouses and warehousing systems.",
+    "category": "Central Act",
+    "tags": ["commerce", "storage", "central act"]
+  },
+  {
+    "title": "The Regional Centre for Biotechnology Act, 2016",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2153?view_type=search&col=123456789/1362",
+    "description": "Establishes a regional centre to promote biotechnology research and education.",
+    "category": "Central Act",
+    "tags": ["science", "research", "biotechnology", "central act"]
+  },
+  {
+    "title": "The Major Port Authorities Act, 2021",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/16956?view_type=search&col=123456789/1362",
+    "description": "Governs administration, regulation, and management of major ports in India.",
+    "category": "Central Act",
+    "tags": ["ports", "infrastructure", "central act"]
+  },
+  {
+    "title": "The Energy Conservation Act, 2001",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2003?view_type=search&col=123456789/1362",
+    "description": "Promotes energy efficiency and conservation through regulation and incentives.",
+    "category": "Central Act",
+    "tags": ["energy", "environment", "central act"]
+  },
+  {
+    "title": "The Real Estate (Regulation and Development) Act, 2016",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2158?view_type=search&col=123456789/1362",
+    "description": "Regulates the real estate sector and protects the interests of buyers.",
+    "category": "Central Act",
+    "tags": ["real estate", "consumer protection", "central act"]
+  },
+  {
+    "title": "The Agricultural and Processed Food Products Export Development Authority Act, 1985",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1865?view_type=search&col=123456789/1362",
+    "description": "Promotes exports of agricultural and processed food products from India.",
+    "category": "Central Act",
+    "tags": ["agriculture", "exports", "central act"]
+  },
+  {
+    "title": "The General Clauses Act, 1897",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2328?view_type=search&col=123456789/1362",
+    "description": "Provides general definitions, rules, and interpretations for Indian legislation.",
+    "category": "Central Act",
+    "tags": ["legislation", "law", "central act"]
+  },
+  {
+    "title": "The Salar Jung Museum Act, 1961",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1646?view_type=search&col=123456789/1362",
+    "description": "Establishes the Salar Jung Museum and governs its administration.",
+    "category": "Central Act",
+    "tags": ["culture", "museum", "central act"]
+  },
+  {
+    "title": "The Rampur Raza Library Act, 1975",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1735?view_type=search&col=123456789/1362",
+    "description": "Provides for administration and preservation of Rampur Raza Library collections.",
+    "category": "Central Act",
+    "tags": ["culture", "library", "central act"]
+  },
+  {
+    "title": "The Khuda Bakhsh Oriental Public Library Act, 1969",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1731?view_type=search&col=123456789/1362",
+    "description": "Regulates the administration of Khuda Bakhsh Oriental Public Library and its collections.",
+    "category": "Central Act",
+    "tags": ["culture", "library", "central act"]
+  },
+  {
+    "title": "The Delhi Police Act, 1978",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1742?view_type=search&col=123456789/1362",
+    "description": "Governs the structure, powers, and functions of the Delhi Police.",
+    "category": "Central Act",
+    "tags": ["law enforcement", "police", "central act"]
+  },
+  {
+    "title": "The National Capital Region Planning Board Act, 1985",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1847?view_type=search&col=123456789/1362",
+    "description": "Establishes the board to plan and coordinate development of the National Capital Region.",
+    "category": "Central Act",
+    "tags": ["urban planning", "infrastructure", "central act"]
+  },
+  {
+    "title": "The National Bank for Financing Infrastructure and Development Act, 2021",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/16802?view_type=search&col=123456789/1362",
+    "description": "Provides for the establishment and regulation of a bank to finance infrastructure projects.",
+    "category": "Central Act",
+    "tags": ["finance", "infrastructure", "central act"]
+  },
+  {
+    "title": "The Press Council Act, 1978",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1744?view_type=search&col=123456789/1362",
+    "description": "Establishes the Press Council to maintain standards of journalism and press freedom.",
+    "category": "Central Act",
+    "tags": ["media", "journalism", "central act"]
+  },
+  {
+    "title": "The Orphanages and other Charitable Homes (Supervision and Control) Act, 1960",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/13052?view_type=search&col=123456789/1362",
+    "description": "Provides for supervision and control of orphanages and charitable homes.",
+    "category": "Central Act",
+    "tags": ["social welfare", "child care", "central act"]
+  },
+  {
+    "title": "The Asiatic Society Act, 1984",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1789?view_type=search&col=123456789/1362",
+    "description": "Regulates the administration of the Asiatic Society for promotion of literature, arts, and science.",
+    "category": "Central Act",
+    "tags": ["culture", "research", "central act"]
+  },
+  {
+    "title": "The Spices Board Act, 1986",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1872?view_type=search&col=123456789/1362",
+    "description": "Provides for development, regulation, and promotion of the spice industry in India.",
+    "category": "Central Act",
+    "tags": ["agriculture", "industry", "central act"]
+  },
+  {
+    "title": "The Indian Veterinary Council Act, 1984",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1812?view_type=search&col=123456789/1362",
+    "description": "Regulates veterinary education and practice in India and establishes the Indian Veterinary Council.",
+    "category": "Central Act",
+    "tags": ["law", "veterinary", "central act"]
+  },
+  {
+    "title": "The English and Foreign Languages University Act, 2006",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2078?view_type=search&col=123456789/1362",
+    "description": "Establishes the English and Foreign Languages University and governs its administration.",
+    "category": "Central Act",
+    "tags": ["education", "university", "central act"]
+  },
+  {
+    "title": "The African Development Fund Act, 1982",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1828?view_type=search&col=123456789/1362",
+    "description": "Provides for India's participation in the African Development Fund and related financial arrangements.",
+    "category": "Central Act",
+    "tags": ["finance", "international", "central act"]
+  },
+  {
+    "title": "The Competition Act, 2002",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2010?view_type=search&col=123456789/1362",
+    "description": "Promotes fair competition in the market, prohibits anti-competitive practices, and establishes the Competition Commission of India.",
+    "category": "Central Act",
+    "tags": ["economics", "regulation", "central act"]
+  },
+  {
+    "title": "The Punjab District Boards Act, 1883",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2393?view_type=search&col=123456789/1362",
+    "description": "Provides for the establishment and governance of district boards in Punjab for local administration.",
+    "category": "Central Act",
+    "tags": ["administration", "local governance", "central act"]
+  },
+  {
+    "title": "The City of Bombay Municipal (Supplementary) Act, 1888",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19546?view_type=search&col=123456789/1362",
+    "description": "Amends and supplements the municipal administration framework for the City of Bombay.",
+    "category": "Central Act",
+    "tags": ["urban governance", "municipality", "central act"]
+  },
+  {
+    "title": "The Protection of Plant Varieties and Farmers Rights Act, 2001",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1909?view_type=search&col=123456789/1362",
+    "description": "Protects rights of plant breeders and farmers, and promotes development of new plant varieties.",
+    "category": "Central Act",
+    "tags": ["agriculture", "intellectual property", "central act"]
+  },
+  {
+    "title": "The Pondicherry University Act, 1985",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1862?view_type=search&col=123456789/1362",
+    "description": "Establishes Pondicherry University and defines its administrative and academic framework.",
+    "category": "Central Act",
+    "tags": ["education", "university", "central act"]
+  },
+  {
+    "title": "The Visva-Bharati Act, 1951",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1652?view_type=search&col=123456789/1362",
+    "description": "Establishes Visva-Bharati University at Santiniketan and governs its administration.",
+    "category": "Central Act",
+    "tags": ["education", "university", "central act"]
+  },
+  {
+    "title": "The Dr. Rajendra Prasad Central Agricultural University Act, 2016",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2150?view_type=search&col=123456789/1362",
+    "description": "Establishes the agricultural university and regulates its academic and administrative affairs.",
+    "category": "Central Act",
+    "tags": ["agriculture", "education", "central act"]
+  },
+  {
+    "title": "The Chartered Accountants Act, 1949",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1552?view_type=search&col=123456789/1362",
+    "description": "Regulates the profession of Chartered Accountancy in India and establishes the Institute of Chartered Accountants of India.",
+    "category": "Central Act",
+    "tags": ["finance", "profession", "central act"]
+  },
+  {
+    "title": "The Delhi and Ajmer-Merwara Land Development Act, 1948",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1630?view_type=search&col=123456789/1362",
+    "description": "Governs land development, acquisition, and use in Delhi and Ajmer-Merwara regions.",
+    "category": "Central Act",
+    "tags": ["land", "development", "central act"]
+  },
+  {
+    "title": "The Indira Gandhi National Tribal University Act, 2007",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2016?view_type=search&col=123456789/1362",
+    "description": "Establishes the National Tribal University for promoting higher education among tribal communities.",
+    "category": "Central Act",
+    "tags": ["education", "tribal welfare", "central act"]
+  },
+  {
+    "title": "The Central Universities Act, 2009",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2080?view_type=search&col=123456789/1362",
+    "description": "Provides a framework for establishment, governance, and coordination of central universities in India.",
+    "category": "Central Act",
+    "tags": ["education", "university", "central act"]
+  },
+  {
+    "title": "The African Development Bank Act, 1983",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1839?view_type=search&col=123456789/1362",
+    "description": "Provides for India's participation in the African Development Bank and related financial arrangements.",
+    "category": "Central Act",
+    "tags": ["finance", "international", "central act"]
+  },
+  {
+    "title": "The Rajiv Gandhi University Act, 2006",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2087?view_type=search&col=123456789/1362",
+    "description": "Establishes Rajiv Gandhi University and regulates its administration and academic framework.",
+    "category": "Central Act",
+    "tags": ["education", "university", "central act"]
+  },
+  {
+    "title": "The Tripura University Act, 2006",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2094?view_type=search&col=123456789/1362",
+    "description": "Provides for the establishment and governance of Tripura University.",
+    "category": "Central Act",
+    "tags": ["education", "university", "central act"]
+  },
+  {
+    "title": "The Sikkim University Act, 2006",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2049?view_type=search&col=123456789/1362",
+    "description": "Establishes Sikkim University and defines its administrative and academic structure.",
+    "category": "Central Act",
+    "tags": ["education", "university", "central act"]
+  },
+  {
+    "title": "The Indira Gandhi National Open University Act, 1985",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1850?view_type=search&col=123456789/1362",
+    "description": "Establishes IGNOU for distance education and regulates its administration and programs.",
+    "category": "Central Act",
+    "tags": ["education", "distance learning", "central act"]
+  },
+  {
+    "title": "The Bengal Indigo Contracts Act, 1836",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/18935?view_type=search&col=123456789/1362",
+    "description": "Regulates contracts between indigo planters and cultivators in Bengal to protect labor rights.",
+    "category": "Central Act",
+    "tags": ["labor law", "agriculture", "central act"]
+  },
+  {
+    "title": "The Mediation Act, 2023",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19637?view_type=search&col=123456789/1362",
+    "description": "Provides a legal framework for mediation as an alternative dispute resolution mechanism.",
+    "category": "Central Act",
+    "tags": ["law", "dispute resolution", "central act"]
+  },
+  {
+    "title": "The Tobacco Board Act, 1975",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1739?view_type=search&col=123456789/1362",
+    "description": "Establishes the Tobacco Board to promote tobacco cultivation, marketing, and research.",
+    "category": "Central Act",
+    "tags": ["agriculture", "board", "central act"]
+  },
+  {
+    "title": "The Cost Accountants Act, 1959",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1385?view_type=search&col=123456789/1362",
+    "description": "Regulates the profession of cost accountancy in India and establishes the Institute of Cost Accountants of India.",
+    "category": "Central Act",
+    "tags": ["finance", "profession", "central act"]
+  },
+  {
+    "title": "The Export-Import Bank of India Act, 1981",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1782?view_type=search&col=123456789/1362",
+    "description": "Provides for the establishment and operation of the Export-Import Bank of India for trade financing.",
+    "category": "Central Act",
+    "tags": ["finance", "banking", "central act"]
+  },
+  {
+    "title": "The Geneva Conventions Act, 1960",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1559?view_type=search&col=123456789/1362",
+    "description": "Implements the Geneva Conventions for humanitarian treatment during armed conflicts.",
+    "category": "Central Act",
+    "tags": ["international law", "humanitarian", "central act"]
+  },
+  {
+    "title": "The Metro Railways (Operation and Maintenance) Act, 2002",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2008?view_type=search&col=123456789/1362",
+    "description": "Regulates operation, maintenance, and safety standards for metro railway systems in India.",
+    "category": "Central Act",
+    "tags": ["transport", "urban infrastructure", "central act"]
+  },
+  {
+    "title": "The Revenue, Bombay, 1842",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/18945?view_type=search&col=123456789/1362",
+    "description": "Governs land revenue administration and collection in Bombay Presidency.",
+    "category": "Central Act",
+    "tags": ["land", "revenue", "central act"]
+  },
+  {
+    "title": "The Partition of Revenue-Paying Estates Act, 1863",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19033?view_type=search&col=123456789/1362",
+    "description": "Provides for partition and settlement of revenue-paying estates in British India.",
+    "category": "Central Act",
+    "tags": ["land", "revenue", "central act"]
+  },
+  {
+    "title": "The Bombay Rent-free Estates Act, 1851",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19027?view_type=search&col=123456789/1362",
+    "description": "Regulates the administration of rent-free estates in Bombay Presidency.",
+    "category": "Central Act",
+    "tags": ["land", "administration", "central act"]
+  },
+  {
+    "title": "The Bengal Embankment Act, 1855",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19037?view_type=search&col=123456789/1362",
+    "description": "Provides for construction and maintenance of embankments for flood control in Bengal.",
+    "category": "Central Act",
+    "tags": ["infrastructure", "flood control", "central act"]
+  },
+  {
+    "title": "The Industrial Development Bank (Transfer of Undertaking and Repeal) Act, 2003",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2026?view_type=search&col=123456789/1362",
+    "description": "Transfers the assets and liabilities of IDBI to a company and repeals the earlier Act.",
+    "category": "Central Act",
+    "tags": ["finance", "banking", "central act"]
+  },
+  {
+    "title": "The Bengal Land Revenue Sales Act, 1859",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19227?view_type=search&col=123456789/1362",
+    "description": "Regulates the sale of land for recovery of revenue in Bengal.",
+    "category": "Central Act",
+    "tags": ["land", "revenue", "central act"]
+  },
+  {
+    "title": "The Prevention of Cruelty to Animals Act, 1960",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1547?view_type=search&col=123456789/1362",
+    "description": "Provides for the prevention of cruelty to animals and their welfare.",
+    "category": "Central Act",
+    "tags": ["animal welfare", "law", "central act"]
+  },
+  {
+    "title": "The Delhi Municipal Corporation Act, 1957",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1410?view_type=search&col=123456789/1362",
+    "description": "Regulates the functioning and administration of municipal corporations in Delhi.",
+    "category": "Central Act",
+    "tags": ["urban governance", "municipal law", "central act"]
+  },
+  {
+    "title": "The Comptroller Auditor-General s (Duties, Powers and Conditions of Service) Act, 1971",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1569?view_type=search&col=123456789/1362",
+    "description": "Defines the duties, powers, and service conditions of the Comptroller and Auditor-General of India.",
+    "category": "Central Act",
+    "tags": ["audit", "governance", "central act"]
+  },
+  {
+    "title": "The Oudh Laws Act, 1876",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19217?view_type=search&col=123456789/1362",
+    "description": "Consolidates and amends the laws applicable in the Oudh region.",
+    "category": "Central Act",
+    "tags": ["regional law", "history", "central act"]
+  },
+  {
+    "title": "The King of Oudh's Estate Validation Act, 1917",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19249?view_type=search&col=123456789/1362",
+    "description": "Validates the transfer and management of the estates of the former King of Oudh.",
+    "category": "Central Act",
+    "tags": ["land", "estate", "central act"]
+  },
+  {
+    "title": "The Madras District Police Act, 1859",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19099?view_type=search&col=123456789/1362",
+    "description": "Regulates the organization and powers of district police in Madras Presidency.",
+    "category": "Central Act",
+    "tags": ["police", "law enforcement", "central act"]
+  },
+  {
+    "title": "The International Development Association (Status, Immunities and Privileges) Act, 1960",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1511?view_type=search&col=123456789/1362",
+    "description": "Grants legal status and privileges to the International Development Association in India.",
+    "category": "Central Act",
+    "tags": ["finance", "international", "central act"]
+  },
+  {
+    "title": "The Rajiv Gandhi National Aviation University Act, 2013",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2120?view_type=search&col=123456789/1362",
+    "description": "Establishes the National Aviation University to develop skilled professionals in aviation.",
+    "category": "Central Act",
+    "tags": ["education", "aviation", "central act"]
+  },
+  {
+    "title": "The Regional Rural Banks Act, 1976",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1492?view_type=search&col=123456789/1362",
+    "description": "Provides for the establishment and regulation of regional rural banks in India.",
+    "category": "Central Act",
+    "tags": ["banking", "rural development", "central act"]
+  },
+  {
+    "title": "The Oil and Natural Gas Commission (Transfer of Undertaking and Repeal) Act, 1993",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1902?view_type=search&col=123456789/1362",
+    "description": "Transfers the assets and liabilities of ONGC to a company and repeals the earlier Act.",
+    "category": "Central Act",
+    "tags": ["energy", "corporate", "central act"]
+  },
+  {
+    "title": "The Companies Act, 2013",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2114?view_type=search&col=123456789/1362",
+    "description": "Regulates the incorporation, management, and dissolution of companies in India.",
+    "category": "Central Act",
+    "tags": ["corporate law", "business", "central act"]
+  },
+  {
+    "title": "The Jammu and Kashmir (Extension of Laws) Act, 1956",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1722?view_type=search&col=123456789/1362",
+    "description": "Extends certain Indian laws to the state of Jammu and Kashmir.",
+    "category": "Central Act",
+    "tags": ["law extension", "regional", "central act"]
+  },
+  {
+    "title": "The Bombay Civil Courts Act, 1869",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2291?view_type=search&col=123456789/1362",
+    "description": "Provides for the constitution and jurisdiction of civil courts in Bombay.",
+    "category": "Central Act",
+    "tags": ["civil law", "courts", "central act"]
+  },
+  {
+    "title": "The Public Sector Iron and Steel Companies (Restructuring) and Miscellaneous Provisions Act, 1978",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1707?view_type=search&col=123456789/1362",
+    "description": "Restructures public sector iron and steel companies and lays down related provisions.",
+    "category": "Central Act",
+    "tags": ["industry", "corporate", "central act"]
+  },
+  {
+    "title": "The Institutes of Technology Act, 1961",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1705?view_type=search&col=123456789/1362",
+    "description": "Provides for the establishment and governance of Indian Institutes of Technology.",
+    "category": "Central Act",
+    "tags": ["education", "technology", "central act"]
+  },
+  {
+    "title": "The National Forensic Sciences University Act, 2020",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/15623?view_type=search&col=123456789/1362",
+    "description": "Establishes the National Forensic Sciences University and governs its functioning.",
+    "category": "Central Act",
+    "tags": ["education", "forensic science", "central act"]
+  },
+  {
+    "title": "The Manipur (Hill Areas) District Councils Act, 1971",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1600?view_type=search&col=123456789/1362",
+    "description": "Provides for the administration of district councils in the hill areas of Manipur.",
+    "category": "Central Act",
+    "tags": ["local governance", "regional law", "central act"]
+  },
+  {
+    "title": "The Sir Dinshaw Manockjee Petit Act, 1893",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19225?view_type=search&col=123456789/1362",
+    "description": "Relates to the endowment and charitable trust established by Sir Dinshaw Manockjee Petit.",
+    "category": "Central Act",
+    "tags": ["charity", "trust", "central act"]
+  },
+  {
+    "title": "The Explosives Act, 1884",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2301?view_type=search&col=123456789/1362",
+    "description": "Regulates manufacture, possession, use, sale, transport, and import of explosives.",
+    "category": "Central Act",
+    "tags": ["safety", "regulation", "central act"]
+  },
+  {
+    "title": "The Provincial Small Cause Courts Act, 1887",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2312?view_type=search&col=123456789/1362",
+    "description": "Provides for the constitution and jurisdiction of small cause courts in provinces.",
+    "category": "Central Act",
+    "tags": ["civil law", "courts", "central act"]
+  },
+  {
+    "title": "The Chemical Weapons Convention Act, 2000",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1916?view_type=search&col=123456789/1362",
+    "description": "Implements obligations under the Chemical Weapons Convention in India.",
+    "category": "Central Act",
+    "tags": ["international law", "security", "central act"]
+  },
+  {
+    "title": "The Delhi Apartment Ownership Act, 1986",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1805?view_type=search&col=123456789/1362",
+    "description": "Regulates ownership, management, and transfer of apartments in Delhi.",
+    "category": "Central Act",
+    "tags": ["real estate", "property law", "central act"]
+  },
+  {
+    "title": "The National Institutes of Design Act, 2014",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2132?view_type=search&col=123456789/1362",
+    "description": "Establishes and governs National Institutes of Design as institutions of national importance.",
+    "category": "Central Act",
+    "tags": ["education", "design", "central act"]
+  },
+  {
+    "title": "The Andhra Pradesh Reorganisation Act, 2014",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2123?view_type=search&col=123456789/1362",
+    "description": "Provides for the creation of the state of Telangana and reorganization of Andhra Pradesh.",
+    "category": "Central Act",
+    "tags": ["state formation", "governance", "central act"]
+  },
+  {
+    "title": "The Income-tax Act, 1961",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2435?view_type=search&col=123456789/1362",
+    "description": "Governs the levy, administration, collection, and recovery of income tax in India.",
+    "category": "Central Act",
+    "tags": ["taxation", "finance", "central act"]
+  },
+  {
+    "title": "The Rights of Persons with Disabilities Act, 2016.",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2155?view_type=search&col=123456789/1362",
+    "description": "Provides for protection of rights and equal opportunities for persons with disabilities.",
+    "category": "Central Act",
+    "tags": ["disability rights", "social justice", "central act"]
+  },
+  {
+    "title": "The Recovery Of Debts And Bankruptcy Act, 1993",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1775?view_type=search&col=123456789/1362",
+    "description": "Establishes tribunals for recovery of debts by banks and financial institutions.",
+    "category": "Central Act",
+    "tags": ["finance", "banking law", "central act"]
+  },
+  {
+    "title": "The Apprentices Act, 1961",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1668?view_type=search&col=123456789/1362",
+    "description": "Regulates training of apprentices in industries and establishments.",
+    "category": "Central Act",
+    "tags": ["employment", "training", "central act"]
+  },
+  {
+    "title": "The Indian Institutes of Information Technology (Public-private Partnership) Act, 2017",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2245?view_type=search&col=123456789/1362",
+    "description": "Establishes IIITs under PPP mode and declares them institutions of national importance.",
+    "category": "Central Act",
+    "tags": ["education", "technology", "central act"]
+  },
+  {
+    "title": "The Air (Prevention and Control of Pollution) Act, 1981",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1389?view_type=search&col=123456789/1362",
+    "description": "Provides for prevention, control, and abatement of air pollution in India.",
+    "category": "Central Act",
+    "tags": ["environment", "pollution control", "central act"]
+  },
+  {
+    "title": "The North-Eastern Areas (Reorganisation) Act, 1971",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1534?view_type=search&col=123456789/1362",
+    "description": "Reorganizes the north-eastern states and creates new states and union territories.",
+    "category": "Central Act",
+    "tags": ["state formation", "north-east", "central act"]
+  },
+  {
+    "title": "The Delhi Sales Tax Act, 1975",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/1637?view_type=search&col=123456789/1362",
+    "description": "Regulates levy and collection of sales tax in Delhi.",
+    "category": "Central Act",
+    "tags": ["taxation", "commerce", "central act"]
+  },
+  {
+    "title": "The Jammu and Kashmir Reorganisation Act, 2019",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/12030?view_type=search&col=123456789/1362",
+    "description": "Reorganizes Jammu & Kashmir into two union territories: Jammu & Kashmir and Ladakh.",
+    "category": "Central Act",
+    "tags": ["state reorganization", "union territory", "central act"]
+  },
+  {
+    "title": "The Central Provinces Land-Revenue Act, 1881",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19215?view_type=search&col=123456789/1362",
+    "description": "Deals with the assessment and collection of land revenue in the Central Provinces.",
+    "category": "Central Act",
+    "tags": ["land", "revenue", "central act"]
+  },
+  {
+    "title": "The delhi rent control act, 1958",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19223?view_type=search&col=123456789/1362",
+    "description": "Regulates the renting of premises and protection of tenants in Delhi.",
+    "category": "Central Act",
+    "tags": ["tenancy law", "housing", "central act"]
+  },
+  {
+    "title": "The Central Excise Act, 1944",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/19238?view_type=search&col=123456789/1362",
+    "description": "Provides for levy and collection of excise duties on goods manufactured in India.",
+    "category": "Central Act",
+    "tags": ["taxation", "excise", "central act"]
+  },
+  {
+    "title": "The Indian Forest Act, 1927",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2388?view_type=search&col=123456789/1362",
+    "description": "Provides for the protection, conservation, and management of forests in India.",
+    "category": "Central Act",
+    "tags": ["environment", "forestry", "central act"]
+  },
+  {
+    "title": "The Prevention of Money-Laundering Act, 2002",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/2036?view_type=search&col=123456789/1362",
+    "description": "Prevents money laundering and provides for confiscation of property involved in laundering.",
+    "category": "Central Act",
+    "tags": ["finance", "crime prevention", "central act"]
+  },
+  {
+    "title": "The Inland Vessels Act, 2021",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/17048?view_type=search&col=123456789/1362",
+    "description": "Regulates the construction, equipment, operation, and navigation of inland vessels in India.",
+    "category": "Central Act",
+    "tags": ["transport", "waterways", "central act"]
+  },
+  {
+    "title": "The Customs Tariff Act, 1975",
+    "referenceLink": "https://www.indiacode.nic.in/handle/123456789/8774?view_type=search&col=123456789/1362",
+    "description": "Provides for levy of customs duties on import and export of goods.",
+    "category": "Central Act",
+    "tags": ["trade", "taxation", "central act"]
+  }
+]
